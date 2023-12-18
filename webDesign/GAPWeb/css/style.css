@@ -1,14 +1,32 @@
+
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+    }
+}
 body {
-    background-image: url('GAPNailsLogo.jpeg');
+    background-color: pink;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 header {
-    background-color: #f8f8f8;
+    background-color: white;
     padding: 10px 0;
     text-align: center;
 }
+
 
 nav ul {
     list-style: none;
@@ -30,10 +48,13 @@ section {
 }
 
 footer {
-    background-color: #f8f8f8;
+    background-color: white;
     text-align: center;
     padding: 10px 0;
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+.artistic-font {
+    font-family: 'Brush Script MT', cursive;
 }
