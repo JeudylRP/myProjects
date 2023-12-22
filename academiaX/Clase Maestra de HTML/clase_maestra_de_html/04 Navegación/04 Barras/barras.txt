@@ -1,0 +1,20 @@
+------Titulo:Barras------
+
+
+Este es un ejemplo de una barra de navegación en una página web:
+
+ 
+
+Cuando aprendas CSS vas a poder dar estilos y colores a tu HTML como este ejemplo.
+
+El elemento nav es un elemento para crear secciones. Puedes ver más sobre secciones en el estándar de HTML y vamos a ver más elementos para secciones en otros videos.
+
+https://html.spec.whatwg.org/multipage/sections.html
+
+
+---PRO TIP:
+-- Alutilizar la etiqueta <nav> en HTML, asegurate de que su contenido esté relacionado con la navegación principal de tu sitio web,
+como menús y enlaces que guían a los usuario a diferentes seccions.
+Evita envolver elementos no relacionados, como logotipos o pie de página, 
+en <nav>. Esto garantiza una estructura semántica adecuada, lo que facilita la comprensión tanto para loos motores de busqueda cmo para los
+lectores de pantalla, mejorando la experiencia dl usuario y la accesibilida de tu sitio.

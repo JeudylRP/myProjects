@@ -1,0 +1,18 @@
+-----Titulo: Rutas-----
+Ejemplos de rutas absolutas
+-https://www.google.com
+-https://www.academia-x.com/store
+
+Ejemplos de rutas relativas
+-/img/gato.jpg (relativo a kla raíz de mi dispositivo)
+-img/gato.jpg (relativo a la carpeta actual)
+-./index.html(relativo a la carpeta actual)
+-../index.html(relativo a la carpeta padre de mi carpeta actual)
+
+Es recomendado utilizar rutas relativas cuando sea posible a menos que deseemos apuntar a una página externa.
+
+--- PRO TIP:
+Opta por rutas relativa en lugar de rutas absolutas en tus enlaces de HTML siempre que sea posible.
+Las rutas relativas hacen que tu sitio web sea más portátil y resistete a cambios futuros en la estructura del dominio.
+Esto asegura a que tus enlaces funcionen sin problemas, incluso si enlacessitio se traslada a un nuevo dominio o subdirectorio.
+Adicionalmente, considera el uso de la etiqueta <basa> que está explicado en en libro de HTML.
