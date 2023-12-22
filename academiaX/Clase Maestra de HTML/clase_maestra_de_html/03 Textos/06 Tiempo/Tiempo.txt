@@ -1,0 +1,15 @@
+-----TITULO: TIEMPO-----
+El elemento 'time' representa tiempo junto con el atributo 'datetime'
+Se usa para fechas, horas, desplazamientos de zona horaria y duraciones.
+
+También es una etiqueta de texto semántico en el estándar de HTML:
+https://html.spec.whatwg.org/multipage/text-level-semantics.html
+
+
+---PRO TIP: Si llegas a trabajar en proyectos globales, los problemas 
+relacionados con el trabajar con fechas y tiempo son algunos de los más comunes.
+Mucho antes detoparte con estos problemas ten en cuenta estos puntos:
+1.Considera que existen distintas zonas horarias para tus usuarios dependiendo de donde esten ubicados.
+2.Intenta usar un formato consistente en tu proyecto.
+Revisa los formatos ISO8601, UTC, Unix Epoch Time, o RFC 3339 con ChatGPT
+3. Considera que existen horarios de verano.

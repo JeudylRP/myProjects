@@ -1,0 +1,33 @@
+-----TITULO: CITAS-----
+Corrección: El video muestra el autor en la etiqueta cite. La recomendación de estándar de HTML es usar el elemento de cita solo para representar el "título de uan obra" y no el autor.
+En lugar de "Charly García", que es el autor usa la obra,
+que sería "El tuerto y los ciegos" de Charly García.
+
+El elemento 'blockquote' representa una sección que está citada de otra fuente.
+El elemento q representa ciierto contenido e texto entre comillas tomano de otra fuente.
+Úsalo para citas cortas.
+
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-blockquote-element
+
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-q-element
+
+El elemento cite representa el tßitulo de una obra (por ejemplo, un libro, un artículo, un ensayo, un poema, una partitura,
+una canción, un guión, una película, un program de televisión, un juego, una escultura, una pintura, una producción teatral, una obra de teatro, una ópera, un musical, una exposición, un informe de caso legal,
+un programa de computadora, etc. ). Esto puede ser una obra que está siendo citada o referenciada en detalle (es deci, una cita), o puede ser
+simplemente una obra que menciona pasada.
+Este también es un tipo de texto semántico en el estándar de HTML.
+
+Este también es un tipo de texto semántico en el estándar de HTML.
+
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-cite-element
+
+Revisa los ejemplos que el estándar te da en Inglés:
+https://html.spec.whatwg.org/multipage/text-level-semantics.html
+
+PRO TIP 👉 Sigue las recomendaciones de programadores senior con experiencia porque ellos 
+han fallado una y otra vez y te enseñan a partir de sus años de fallos y triunfos...pero 
+recuerda que nadie es perfecto y todos cometemos errores. Por eso siempre tómate unos 
+minutos adicionales para doble verificar documentos oficiales. Así reforzarás el 
+conocimiento o corregirás lo que aprendiste incorretamente y así puedas llegar a
+ser un mejor senior.
+
