@@ -1,0 +1,38 @@
+--- Qué significa renderizar?
+-- Renderizar Significa el proceso de generar una imagen a partir de un modelo. Este modelo es una descripción o una representación matemática de objetos tridimensionales o escenas. 
+Al renderizar, se convierte esta descripción en una imagen fija o en secuencias de imágenes (como en animaciones o videos). 
+
+El proceso de renderización implica varios aspectos:
+
+1. **Iluminación y Sombreado:** Se calcula cómo la luz afecta a los objetos, incluyendo sombras, reflejos y transparencias.
+
+2. **Texturización:** Se aplican texturas a los modelos 3D para darles una apariencia más realista, como piel, tela, metal, etc.
+
+3. **Animación:** Si el modelo es parte de una secuencia animada, el renderizado también incluirá el movimiento de los objetos en el tiempo.
+
+4. **Efectos Visuales:** Se pueden añadir efectos adicionales, como niebla, humo, fuego o destellos de luz.
+
+El renderizado es una tarea computacionalmente intensiva y puede requerir hardware especializado, especialmente para imágenes de alta calidad o animaciones complejas. 
+Este proceso es fundamental en campos como los videojuegos, las películas de animación, la arquitectura, el diseño de interiores y la visualización de datos.
+
+
+
+-----TÍTULO: FORMATOS-----
+
+En el video de texto vimos algunas etiquetas para texto semántico.
+Aquí tienes otras etiquetas útiles que también cambian la semántica y el formato:
+
+<code> Código
+<sub> Texto subíndice
+<sup> Texto superíndice
+
+Para una lista completa de texto semántico puedes visitar el estándar de HTML:
+https://html.spec.whatwg.org/multipage/text-level-semantics.html
+
+---PRO TIP:
+-- Utiliza estos elementos para mejorar la semántica de tu contenido.
+Evita abusar de ellos solo con fines de estilo visual.
+No sobrecargues tu contenido con subíndices y superíndices innecesarios,
+ya que esto puede dificultar la lectura y comprensión.
+Antes de publicar tu contenido, verifica cómo se muestran los subíndices y superíndices en diferentes navegadores.
+Asegúrate de que el estilo y la posición sean coherentes en todas las plataformas.

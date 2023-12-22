@@ -1,0 +1,20 @@
+Listas
+
+Estos elementos 'ul','ol','dl' permiten representar Listas.
+
+'ul' es una abreviación de Unordered List (Lista Desordenada)
+'ol' es una abreviacion de Ordered List (Lista Ordenada)
+'li' es una abreviación de List Item (Ítem d Lista)
+'dl' es una abreviación de Definition List (Lista de Definición) 
+
+Puedes visitar el estándar de HTML para ver otras formas de agrupar contenido:
+https://html.spec.whatwg.org/multipage/grouping-content.html
+
+
+--- PRO TIP:
+-- Las listas extremadamente largas pueden ser abrumadoras para los usuarios.
+Consideralas dividirls en secciones mas pequenas.
+Puedes crear listas anidadas para subsecciones dentro de una lista principal.
+Esto proporciona una estructura organizada y clara para tus contenidos.
+
+

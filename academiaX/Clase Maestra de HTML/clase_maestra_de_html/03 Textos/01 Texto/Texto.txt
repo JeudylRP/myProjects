@@ -1,0 +1,53 @@
+Texto
+Una de las partes más importante de HTML es el texto.
+Puedes envolver tu texto en un párrafo usando la etiqueta 'p'
+
+Todas las etiquetas vienen de palabras en inglés porque se crearon en inglés.
+'p' es una abreviación de Parageaph (Párrafo)
+Saber las traduccioes en inglés te puede ayudar a recordar las etiquetas.
+
+'p' es simplemete para agrupar un texto en forma de párrafo
+Hay etiquetas que axudan a dar más significado a palabras o frases.
+Esto se llama texto semántico.
+Hace más fácil para las personas y las máquinas leer y comprender el contenido.
+
+<b> Texto utilitario
+--- Qué es un texto utilitario?
+-- Un texto utilitario es un tipo de texto que está diseñado principalmente para proporcionar información práctica o para ayudar en tareas específicas. Estos textos se caracterizan por su enfoque funcional y directo, ofreciendo datos, instrucciones o explicaciones claras y concisas. Algunos ejemplos de textos utilitarios incluyen:
+
+1. **Manuales de instrucciones:** Guías detalladas que explican cómo usar un producto o realizar una actividad específica.
+
+2. **Recetas de cocina:** Instrucciones paso a paso para preparar un plato específico, incluyendo ingredientes y métodos de cocción.
+
+3. **Guías de estudio:** Materiales diseñados para ayudar en el aprendizaje o la comprensión de un tema en particular.
+
+Los textos utilitarios se distinguen por su claridad, precisión y organización, facilitando al lector la obtención de la información necesaria para realizar una tarea o entender un tema.
+
+
+<strong> Texto importante
+<i>voz alternativa
+<em>Texto enfatizado
+--- Qué significa enfatizado?
+--"enfatizado" se refiere a algo que se ha destacado o resaltado para llamar la atención o para darle más importancia.
+
+<mark> Texto de referencia 
+<small> Texto pequeno
+<del> texto eliminado
+<ins> Texto insertado
+<sub>Texto subíndice
+<sup>Texto superíndice
+
+El estándar de HTML es el recurso oficial de documentación de HTML pero no es muy fácil de leer y es un poco técnico. 
+
+La organización detrás del estándar es WHATWG que mantiene y desarrolla HTML. Fue creada por empleados de Apple, Mozilla y en el 2004.
+
+Para una lista completa de texto semántico puedes visitar el estándar de HTML en el siguiente vínculo y recuerda que no tienes que aprender el estándar, simplemente es el mejor recurso para entender como debe funcionar HTML en caso de dudas:
+https://html.spec.whatwg.org/multipage/text-level-semantics.html
+
+Adicionalmente puedes ver la lista oficial de entidades de caracteres. Son bastantes!
+
+https://html.spec.whatwg.org/multipage/named-characters.html
+
+
+
+
