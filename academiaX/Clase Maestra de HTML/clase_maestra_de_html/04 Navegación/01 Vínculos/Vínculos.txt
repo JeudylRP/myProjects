@@ -1,0 +1,25 @@
+-----TITULO: VINCULOS-----
+Un vinculo tambien se conoce como Link en Inglés.
+Si el elemento a tiene un atributo href, entonces representa un hipervinculo.
+
+Al dar un click en este hipervínculo podemos ir a otra página.
+<a href> ="https://wwww.google.com">Google</a>
+
+También podriamos ir a una seccion en la misma página
+<a href = seccion-en-mi-pagina">Seccion</a>
+
+Las direcciones como https://www.google.com se llaman URL.
+URL viene de Unified Resource Locator (Localizador de Recursos Uniforme)
+Es la direccion en donde se encuentra un recurso.
+
+Puedes leer más en Wikipedia:
+https://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme
+a también es una etiqueta de texto semántico en el estándar de HTML:
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#
+Adicionalmente, si deseamos abiri el vínculo en una nueva página, podemos usar el atributo target='_blank'
+
+PRO TIP 👉 Para evitar que los enlaces de tu sitio web no funcionen debido a 
+errores tipográficos en las rutas, siempre verifica con atención la ortografía 
+y la estructura de las rutas de los archivos y carpetas en tus etiquetas de enlace HTML. 
+Una pequeña revisión puede evitar problemas de enlaces rotos y garantizar una experiencia 
+de usuario sin interrupciones.
