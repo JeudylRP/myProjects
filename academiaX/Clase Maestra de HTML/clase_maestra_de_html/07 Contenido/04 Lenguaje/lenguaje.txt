@@ -1,0 +1,13 @@
+-----TITULO:LENGUAJE------
+El atributo 'lang' es un atributo global y especifica el idioma principal para el 
+contenido del elemento.
+
+Aquí puedes ver otros ejemplos de códigos de idiomas (mira la tabla al final):
+
+https://es.wikipedia.org/wiki/Localizaci%C3%B3n_de_idiomas
+
+---PRO TIP:
+-- Usar el atributo de lenguaje (lang) en tus páginasHTML es crucial para mejorar la accesibilidad, el SEO 
+y la comprensión del contenido. Ayuda a los comentarios con discapacidades visuales, beneficia al SEO al inidcar el idioma, permite
+correciones gramaticales precisas y mejora la legibilidad, especialmente en sitios multilingües.
+No iólvides incluirla en tus proyectos. 
