@@ -1,0 +1,11 @@
+------Titulo: Foto------
+La etiqueta <picture> ofrece a los desarrolladores más flexibilida para
+especificar recursos de imágenes según la densidad de píxeles de la pantalla, el tamano de la ventana gráfica, y el formato de imagen.
+
+Son un tipo de etiqueta de contenido incrustado.
+https://html.spec.whatwg.org/multipage/embedded-content.html 
+
+---PRO TIP:
+Cuando aprendas CSS verás que puedes mostrar fotos usadno media queries que son mas flexibles que atributos mdia HTML.
+Ninguna de estas 2 opciones afecta mucho al tiempo de carga de una página y sus imágenes. Si deseas posponer la carga de una imagen
+hasta que se muestre en la pantalla revisa más adelante conceptos avanzados como el atributo loading de HTML o carga de recursos con JavaScript.

@@ -1,0 +1,36 @@
+-----TITULO:RESOLUCION-----
+Hpy en día hay muchisimas resoluciones de pantalla.
+
+Podemos optimizar nuestras páginas y aplicaciones para estas diferentes resoluciones.
+
+Recuerda que el tamano de la pantalla es diferente de la resolucion.
+
+Dos pantallas pueden tener el mismo tamano pero la resolucion puede ser diferente.
+
+Mayor resolucion significa, mayor numero de pixeles en el mismo espacio como los 5K.
+
+Puedes leer más del tema aquí:
+
+https://es.wikipedia.org/wiki/Resoluci%C3%B3n_de_pantalla
+
+1x, 2x, 3x se refiere a la densidad de la pantalla pero en muchos casos puede ser más 
+útil dejar que el navegador escoja por ti. Opcionalmete puedes usar el descriptor de ancho 300w, 600w, 1200w
+en lugar de 1x, 2x, 3x. El descriptor de ancho indica el tamano de ancho original para calcular la densida depixeles efectiva y puede ser más útil
+y preciso.
+
+---PRO TIP:
+-- Unerror común que cometen los nuevos programadores es no considerar la variedad de tamanos de pantalla en las que se visualizará su página web.
+A la hora de disenar tu pagina, asegurate de cuestionar cueal es tu audiencia, sus dispositivos, y sus navegadores especificos. Para
+proyectos comunes recomiendo soportar e tamanos generales (movil,ipad y escritorio) y las últimas 3 versiones de los navegadores mas usados
+(Chrome, Firefox, Safari y Edge). Esto permitirá disenar proyectos que se adapten de manera fluida a diferentes resoluciones y dispositivos, proporcionando una mejor experiencia de usuario.
+
+
+
+
+
+
+
+
+
+
+

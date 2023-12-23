@@ -1,0 +1,11 @@
+------Figura-----
+La etiqueta 'figure' espicifica contenido autónomo.
+Esto incluye ilustraciones, diagramas, fotos y listas de códigos.
+
+Es un tipo de etiqueta de agrupación de contenido:
+https://html.spec.whatwg.org/multipage/grouping-content.html
+
+PRO TIP: Un error común que cometen muchos nuevos programadores es no incluir correctamente
+el elemento 'figcaption' debe ser utilizado dentro de 'figure' para proporcionar una descripción de 
+la imagen o contenido para optimizar la accesibilidad y usabilidad de tus proyectos web.
+

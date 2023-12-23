@@ -1,0 +1,35 @@
+----- TITULO: IMAGEN -----
+Las imágenes son un tipo de etiqueta de 'contenido incrustado'.
+Requieren el atributo 'src' para indicar la fuente de la imagen.
+Algunas etiquetas de est tipo son <picture> y <source>
+
+https://html.spec.whatwg.org/multipage/embedded-content.html
+
+Nota: La extensión de HTML Preview en VSCode no soporta imágenes externas. 
+Para esto puedes utilizar tu navegador directamente. Adicionalmente, 
+si deseas ver cambios en tiempo real en tu navegador considera usar 
+la extensión de LiveServer.
+
+--- Formatos de imágenes recomendados:
+- SVG es la mejor opción para imágenes de 'vector' que se vana a presentar en varios tamanos.
+
+---- Qué son imagenes de vector?
+-- Una imagen vectorial es aquella que se diferencia del resto porque no está creada a 
+partir de un conjunto de píxeles sino de formas geométricas y, por lo tanto,
+de fórmulas matemáticas, con la finalidad de generar resultados limpios que son ideales para la impresión
+
+-WEBP está convirtiendose en el nuevo estandar para imagenes raster siendo
+hasta 26% menores que PNG y reemplazando a las imágenes JPEG, PNG and GIF.#
+
+---- Qué son imagenes raster?
+Las imágenes raster, también conocidas como imágenes de mapa de bits, son un tipo de representación gráfica
+ digital que utiliza una cuadrícula de píxeles para formar una imagen completa. Cada píxel en esta cuadrícula 
+ es un pequeño punto de color.
+
+
+PRO TIP 👉 El error común al usar imágenes en HTML es no optimizar el tamaño y formato de las imágenes. 
+Para mejorar el rendimiento y la velocidad de carga de tu sitio web, asegúrate de redimensionar y comprimir
+tus imágenes antes de subirlas. Utiliza formatos de imagen adecuados como WEBP. Además, utiliza el atributo
+alt para describir el contenido de la imagen, lo que mejora la accesibilidad y la comprensión por parte de 
+motores de búsqueda. Una gestión adecuada de imágenes garantiza una experiencia de usuario más rápida y
+atractiva.
