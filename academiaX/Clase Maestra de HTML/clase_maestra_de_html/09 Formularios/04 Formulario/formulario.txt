@@ -1,0 +1,10 @@
+-----TITULO:FORMULARIO-----
+El elemento 'form' representa una colección de elementos asociados al formulario,
+algunos de los cuales pueden representar valores editables que se pueden envir
+a un servidor para procesamiento
+
+---PRO TIP: 
+-- Crear formularios largos o con  una gran cantidad de campos puede ser abrumador para los usuarios y hacer que se sientan frustrados.
+Debes haber notado que los formularios en línea son cada vez más simples hoy en día y muchas veces se dividen
+en varias páginas si son encuestas. 
+Simplifica los formularios siempre que sea posible.
