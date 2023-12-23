@@ -1,0 +1,21 @@
+-----TITULO:ACCESIBILIDAD-----
+La accesibilidad es la practica de hacer qur tus sitios web sean utilizadables por tantas personas
+comosea posible. Esto incluye a personas con discapacidades, personas que usan dispositivos móviles, 
+personas con conexiones de red lentas.
+
+ARIA viene de Accessible Rich Internet Applications que se traduce a Aplicaciones de Internet Ricas en Accesibilidad.
+
+En proyectos profesionales es muy probable que no sea requerido que sean accesibles pero esto depende de ti. La documentación sobre accesibilidad es bastante limitada especialmente en español pero te dejo algunos recursos:
+
+Mozilla Inglés (más completo): https://developer.mozilla.org/en-US/docs/Web/Accessibility
+
+Mozilla Español: https://developer.mozilla.org/es/docs/Web/Accessibility
+
+También comparto la recomendación oficial de WAI-ARIA (la sección de aria-label) que es un documento bastante técnico pero te puede dar una idea de las prácticas y atributos disponibles:
+
+https://www.w3.org/TR/wai-aria/#aria-label
+
+PRO TIP: No ignires laaccesibilidad. Nos solo se hace por ayudar a los usuarios, también expande el tráfico y mejora el SEO que es lo que tú
+y tus clientes desean.
+
+SEO = "Search Engine Optimization"

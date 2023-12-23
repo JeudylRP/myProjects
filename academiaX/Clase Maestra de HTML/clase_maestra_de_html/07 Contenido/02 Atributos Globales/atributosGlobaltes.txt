@@ -1,0 +1,25 @@
+----- TITULO: ATRIBUTOS GLOBALES -----
+
+Los atributos globales son atributos que pueden usarse en todos los elementos HTML.
+
+Puedes ver una descripción de cada uno de ellos en la página de Mozilla.
+Este es otro recurso excelente para programadores:
+https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes
+
+Lenguajes:
+
+https://en.wikipedia.org/wiki/Language_localisation
+
+---PRO TIP:
+-- Utiliza los atributos globales de manera selectiva y consciente.
+Antes de agregar un atributo global a un elemento,
+pregúntate si realmente es necesario y si contribuye de manera significativa a 
+la funcionalidad o al diseno de tu página.
+En el contexto del desarrollo web menos es más.
+Mantén tu código limpio y legible evitando agregar
+atributos globales innecesarios, lo que te ayudará a evitar problemas y a tener un
+código más estructurado y fácil de mantener.
+
+
+
+
