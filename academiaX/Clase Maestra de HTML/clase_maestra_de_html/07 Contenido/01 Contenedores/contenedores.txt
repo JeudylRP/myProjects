@@ -1,0 +1,36 @@
+------TITUO: CONTENEDORES -----
+'div' se utiliza para agrupar etiquetas
+'p' se usa como un contenedor de un griupo de texto.
+'span' se usa para un grupo mas pequeno de una o mas palabras junto con atributos
+
+---PRO TIP:
+-- Usa span y divs para encapsular estilos que verás en CSS y haz mayor Uso de etiquetas semánticas.
+
+
+--- Qué son etiquetas semanticas?
+-- Las etiquetas semánticas en HTML son aquellas que transmiten un significado claro sobre el tipo de contenido que contienen, 
+haciendo que la estructura del documento HTML sea más comprensible tanto para los navegadores como para los desarrolladores.
+ A diferencia de las etiquetas no semánticas como `<div>` y `<span>`, que no ofrecen información sobre su contenido, las etiquetas
+  semánticas definen claramente la naturaleza y el rol de la información que contienen. Algunas de las etiquetas semánticas más comunes en HTML5 son:
+
+1. **`<header>`**: Representa un grupo de ayudas introductorias o de navegación. Puede contener algunos elementos de cabecera, logotipos, índices de búsqueda, etc.
+
+2. **`<nav>`**: Se utiliza para partes de un documento que ofrecen enlaces de navegación. Generalmente, esto incluye menús, tablas de contenido, e índices.
+
+3. **`<section>`**: Define una sección en un documento, como capítulos, cabeceras, pies de página, o cualquier otra sección del documento.
+
+4. **`<article>`**: Se utiliza para contenido independiente y autocontenido. Un artículo debe hacer sentido por sí mismo y podría ser distribuible o reutilizable (por ejemplo, posts de blog, artículos de revista).
+
+5. **`<aside>`**: Indica contenido ligeramente relacionado con el contenido principal. Podría ser una barra lateral, publicidad, grupos de enlaces relacionados, etc.
+
+6. **`<footer>`**: Representa el pie de página de un documento o sección. Usualmente contiene información del autor, derechos de autor, enlaces relacionados, etc.
+
+7. **`<figure>` y `<figcaption>`**: `<figure>` se usa para representar contenido independiente, a menudo con imágenes, diagramas, fotos, listas de códigos, etc. `<figcaption>` proporciona una leyenda o explicación para el contenido de `<figure>`.
+
+8. **`<main>`**: Especifica el contenido principal o importante del documento. Hay solo un elemento `<main>` por documento.
+
+9. **`<time>`**: Representa una fecha y/o hora específica. Puede ser útil para motores de búsqueda y otras aplicaciones para comprender la fecha/hora con precisión.
+
+10. **`<mark>`**: Se utiliza para resaltar o marcar partes del texto.
+
+Estas etiquetas ayudan a mejorar la accesibilidad del sitio web, permiten a los motores de búsqueda comprender mejor la estructura y el contenido del sitio, y facilitan el desarrollo y mantenimiento del sitio web.
