@@ -1,0 +1,20 @@
+-----TITULO:CABEZA-----
+El elemento <head> representa una colección de metados para el documento.
+
+Qué son metadatos? Son datos sobre los datos.
+
+Puedes ver más en el estándar:
+
+https://html.spec.whatwg.org/multipage/semantics.html
+
+Existen cientos de metatags  etiquetas meta. Algunas pueden ser únicas para un navegador o sistema operativo y otras pueden ser personalizadas, es decir, 
+solo  reconocidas por el código que escribas.
+Aquí hay una lista d las meta etiquetas que existen:
+
+https://gist.github.com/whitingx/3840905
+
+--- PRO TIP:
+-- No es necesario utilizar todas las etiquetas meta en proyectos profesionales.
+En lugar de eso puedes anadirlas a medida que la necesites para un caso en particular.
+
+

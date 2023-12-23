@@ -1,0 +1,10 @@
+-----TITULO:DOCUMETO-----
+La inclusión de la etiqueta especial de <!doctype> en un documento garantiza
+que el navegador hga el mejor esfuerzo para seguir las especificaciones de HTML.
+
+El elemento <html> representa l raíz de un documento HTML
+
+PRO TIP: Usa herramientas de productividad para crear tu documento de HTML en segundos.
+CHatGPT, plantillas y abreviaciones de Emmet en VSCode que veremos más adelante a detalle.
+
+
