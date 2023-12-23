@@ -1,0 +1,12 @@
+-----TITULO: TABLA-----
+El elemento de table representa datos con más de una dimensión, en forma de tabla. Estos son datos tabulares en filas y columnas.
+
+Hay otras etiquetas relacionadas con las tablas que puedes ver en el estándar:
+
+https://html.spec.whatwg.org/multipage/tables.html
+
+ ℹ️ Usa tus propias imágenes para probar este ejercicio ya que los enlaces del video pueden haber cambiado.
+
+ ---PRO TIP:
+ -- Usa tablas en HTML exclusivamente para mostrar datos organizados en filasy columans, y emplea en sulugar CSS para el diseno de tu página, ya que esto
+ te permitirá tener un código más limpio, eficiente y fácil de mantener a largo plazo.

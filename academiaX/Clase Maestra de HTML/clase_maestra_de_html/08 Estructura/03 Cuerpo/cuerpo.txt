@@ -1,0 +1,6 @@
+-----TITULO:CUERPO-----
+El elemento <body> representa el contenido del documento.
+
+Puedes aprender más sobre cada una de estas etiquetas revisando este recurso de Mozilla.
+
+---PRO TIP 👉 No uses divs ni tablas para agrupar contenido. Usa etiquetas semánticas.
