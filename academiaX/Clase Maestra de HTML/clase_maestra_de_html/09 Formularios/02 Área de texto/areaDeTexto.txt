@@ -1,0 +1,13 @@
+-----TITULO : AREA DE TEXTO-----
+'textarea' significa "área de texto"
+
+En el estándar puedes ver más detalles:
+
+https://html.spec.whatwg.org/multipage/form-elements.html#the-textarea-element
+
+---PRO TIP:
+--Utiliza el atributo maxlenght para limitar la cantidad máxima de caracteres permitidos
+en el campo de texto. Esto asegurará que los usuarios no puedan ingresar más texto detallesque se ajuste
+a tus necesidades y evitará cualquier problema potencial.
+Recuerda que es importante equilibrar la cantidad de caracteres permitidos para nolimitar demasiado la entrada de texto, 
+pero aún así mantener un límite razonable.

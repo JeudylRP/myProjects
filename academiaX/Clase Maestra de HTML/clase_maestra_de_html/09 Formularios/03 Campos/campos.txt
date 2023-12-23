@@ -1,0 +1,25 @@
+-----TITULO:CAMPOS-----
+El elementi 'fieldset' representa un conjunto de controles d formulario
+agrupados, opcionalemente con un título 'legend'.
+
+Es un tipo de elemento para formularios y hay muchos otros que puedes ver en el 
+estándar y los vas a utilizar en proyectos como 'select', 'option' y 'progress'.
+
+https://html.spec.whatwg.org/multipage/form-elements.html
+
+El atributo de 'name' especifica el nombre de un elemento 'input' y se utiliza para hacer referencia
+a elementos al usar JavaScript o para hacer referencia a datos de formulario después de enviar un formulario.
+Cuando se envía un formulario solo se pasarán los valores de los elementos dde formulario quetengan el atributo
+de 'name'.
+
+---PRO TIP:
+--Un error común que cometen los nuevos programadores es olvidarse de incluir
+el atributo 'name' en los elementos del formulario.
+Sin el atributo 'name', los datos ingresados en el campo no se enviarán al procesamiento del formaulario.
+Esto puede provocar confusión y desencadenar errores en el manejo de los datos del formulario.
+Siempre asegurarse de agregar al atribuo 'name' a cada campo del forulario,
+y asignarler un nombre único y descriptivo.
+Esto garantizará que los datos se envíen correctamente al procesamiento y permitirá identificar cada
+campo de forma adecuada.
+
+
