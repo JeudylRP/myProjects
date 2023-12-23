@@ -1,0 +1,21 @@
+-----TITULO:ENTRADA-----
+El elemento 'input' representa un campo para ingresar datos y editar datos
+Input significa "de entrada".
+El atributo 'type' es necesario para indicar el tipo de 'input'
+
+En el estándar puedes ver una la tabla con todas las opciones posibles:
+
+https://html.spec.whatwg.org/multipage/input.html
+
+ ⚠️ Nota: El video tiene un error: el atributo type para crear un campo de entrada de teléfono en un formulario HTML se llama "tel", no "phone".
+
+---PRO TIP:
+--No validar o sanitizar correctamente los datos ingresados por el usuario
+puede conducir a vulnerabilidades de seguridad, como ataques de inyección de código 
+o cross-site scripting (XSS). Para evitar este riesgo, siempre es importante utilizar
+funciones de validación y sanitización de datos.
+Algunas validaciones se puedn hacer directamente en HTML y en el lado del cliente con
+JavaScript y otras deben relizarse en el lado del servidor. Esto incluye utilizar filtros
+de entrada, escapar caracters especiales y limitar la longitud de lo campos, entre otras medidas.
+Así protegerás tus aplicaciones contra posibles ataques y garantizas la integridad de los datos
+ingresados por el usuario.
