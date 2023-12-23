@@ -1,0 +1,20 @@
+-----Titulo-----
+Un elemento de audio representa un sonido o una secuencia de audio.
+Es un tipo de etiqueta de contenido incrustado y multimedia.
+https://html.spec.whatwg.org/multipage/media.html
+
+Si deseas conocer sobre otros tipos de formatos de audio y sus tipos soportados por HTML5 puedes revisarlos aquí:
+
+https://en.wikipedia.org/wiki/HTML5_audio
+
+También puedes revisar otros tipos de formatos que reconoce HTML además de type="audio/mpeg" y se los conoce como MIME types:
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+Nota: Si ves el texto Some content has been disabled in this document asegúrate de utilizar la 
+extensión Liver Preview o LiveServer de Ritwick Dey o alternativamente arrastra tu archivo de HTML a tu navegador (pero no verás actualizaciones en tiempo real con esta opción).
+
+PRO TIP 👉 Hoy en día todos los navegadores más populares soportan 
+mp3 por lo que podrías omitir otras opciones de audio. 
+Sin embargo, no hay nada mejor que probarlo antes de publicar un proyecto 
+para garantizar una reproducción adecuada en distintas plataformas.

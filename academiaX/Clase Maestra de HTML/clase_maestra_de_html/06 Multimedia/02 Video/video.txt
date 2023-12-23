@@ -1,0 +1,28 @@
+------Titulo: video-----
+Un elemento de video es muy similar al elemento de <audio> y representa un video.
+Es un tipo de etiqueta de contenido incrustado y multimedia.
+https://html.spec.whatwg.org/multipage/media.html
+
+Si deseas probar la etiqueta de video utiliza la extensión de LiveServer en VSCode o abre tu archivo de HTML directamente en el navegador.
+
+El archivo de la lección tiene algunos ejemplos adicionales que en práctica no son muy comunes. La etiqueta <track> usa archivos con la extensión .vvt y se usa de esta manera:
+
+Incluye archivos de subtítulos para los videos
+Incluye archivos de descripciones de los videos para personas no videntes (accesibilidad)
+Incluye archivos para indicar los capítulos de los videos
+Puedes ver más sobre esta etiqueta en este recurso en inglés:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track
+
+---PRO TIP: 
+-- Los videos suelen tener un tamano considerable y pueden afectar 
+negativamente la experiencia del usuario si no se gestionan adecuadamente en un sitio
+web. Es fundamental optimizarlos reduciendo su tamano.
+El mejor formato de video para internet y HTML5 es H.264 (MP4).
+
+
+--- Qué es el texto de soporte para navegadores?
+
+--El "texto de soporte para navegadores" generalmente se refiere al texto o contenido que se muestra en un navegador web cuando ciertas características no son compatibles o no están disponibles. 
+
+
+

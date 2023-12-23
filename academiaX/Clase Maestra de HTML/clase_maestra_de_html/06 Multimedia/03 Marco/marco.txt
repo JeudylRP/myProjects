@@ -1,0 +1,39 @@
+----- Titulo: Marco-----
+El elemento 'iframe' representa su contexto de navegacon anidado.
+Es decir, una página web dentro de otra.
+
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html
+
+
+---PRO TIP:
+-- Un error común al usar iframes es no especificar una altiura y ancho fijo para el iframe o confiar en los valores predeterminados.
+Esto puede llevar a problemas de diseno y experiencia, ya que el iframe puede redimensionarse de forma inesperada y causar que el contenido
+se vea cortado o se desborde.
+Para evitar exto, siempre establece explícitamente las dimenrsiones (alto y ancho) del oframe. Además, asegúrate de 
+utilizar iframes con contenido confiable  seguro, ya que los iframes pueden introducir vulnerabilidades de seguridad si se incorporan fientes no 
+confiables en tu sitio web.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
