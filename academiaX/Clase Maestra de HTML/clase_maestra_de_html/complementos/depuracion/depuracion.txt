@@ -1,0 +1,18 @@
+-----TITULO:DEPURACION-----
+Utiliza el inspector de código en tu navegador favorito para ver el HTML en forma de DOM (árbol de elementos). 
+Así vas a poder solucionar problemas y también puedes ver como otros desarrolladores han escrito su HTML.
+
+Los navegadores más populares son Chrome (de Google), Firefox (de Mozilla), Safari (de Apple), 
+Interent Explorer y Edge (de Microsoft), y Opera.
+
+
+Puedes ingresar al inspector a través del menú del navegador pero es mejor aprender las teclas de acceso 
+rápido como Shift + Command + C (en MacOS). 
+Investiga sobre las teclas de acceso rápido para tu navegador y sistema operativo.
+
+---PRO TIP 👉 
+-- Usa las herramientas de inspección regularmente y familiarizarse con sus funciones y atajos. 
+Aprende a utilizar las herramientas de inspección para examinar el HTML de tu página web en tiempo real, 
+permitiéndote identificar y corregir errores de forma más eficiente. La capacidad de inspeccionar y modificar 
+elementos en vivo te ayudará a depurar tu código de manera efectiva y mejorar tu habilidad como desarrollador web. 
+Si tienes una página larga también puedes validarla con esta herramienta de w3.org

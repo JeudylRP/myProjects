@@ -1,0 +1,8 @@
+-----Portafolio: Implementación de HTML-----
+Las imágenes de las tecnologías y experiencias en el video no estás disponibles en el archivo del proyecto ya que son personales de la experiencia de Xavier. Puedes remplazar estás imágenes con imágenes de tu experiencia.
+
+Este es un recurso que incluye algunas imágenes de tecnologías:
+
+https://vecta.io/symbols/25/web-technologies
+
+ℹ️ 2023/06: La plantilla de VSCode "html Sample" ya no está disponible. Puedes usar "html:5" en lugar de esta.
