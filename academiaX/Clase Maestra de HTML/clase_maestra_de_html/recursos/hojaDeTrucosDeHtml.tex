@@ -1,0 +1,121 @@
+
+
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+
+\geometry{
+    a4paper,
+    left=20mm,
+    right=20mm,
+    top=25mm,
+    bottom=25mm,
+}
+
+\title{Hoja de trucos de HTML}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{1. Estructura básica de un documento HTML}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<!DOCTYPE html> & Declara el tipo de documento y la versión de HTML. \\
+<html> & Elemento raíz de un documento HTML. \\
+<head> & Contiene metadatos y enlaces a scripts y hojas de estilo. \\
+<title> & Especifica el título de la página. \\
+<body> & Contiene el contenido visible de la página web. \\
+\end{tabular}
+
+\section*{2. Elementos de encabezado}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<h1> & Encabezado más grande. \\
+<h2> & Subencabezado. \\
+<h3> a <h6> & Encabezados de menor importancia. \\
+\end{tabular}
+
+\section*{3. Párrafos y formateo de texto}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<p> & Define un párrafo. \\
+<strong> & Indica texto en negrita. \\
+<em> & Indica texto en itálica. \\
+<br> & Inserta un salto de línea. \\
+<hr> & Crea una línea horizontal de separación. \\
+\end{tabular}
+
+\section*{4. Listas}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<ul> & Define una lista no ordenada. \\
+<li> & Define un ítem de la lista. \\
+<ol> & Define una lista ordenada. \\
+\end{tabular}
+
+\section*{5. Enlaces e imágenes}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<a href="URL"> & Crea un enlace a otra página. \\
+<img src="imagen.jpg" alt="Descripción"> & Incorpora una imagen. \\
+\end{tabular}
+
+\section*{6. Tablas}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<table> & Define una tabla. \\
+<tr> & Define una fila de la tabla. \\
+<th> & Define una celda de encabezado. \\
+<td> & Define una celda de tabla. \\
+\end{tabular}
+
+\section*{7. Formularios}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<form> & Define un formulario para la entrada del usuario. \\
+<input> & Define un campo de entrada. \\
+type="text" & Campo de texto. \\
+type="password" & Campo de contraseña. \\
+type="submit" & Botón para enviar el formulario. \\
+\end{tabular}
+
+\section*{8. Elementos semánticos}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Elemento} & Descripción \\
+\hline
+<header> & Representa un grupo de soporte introductorio o navegacional. \\
+<nav> & Sección de enlaces de navegación. \\
+<article> & Contenido independiente. \\
+<section> & Sección de un documento. \\
+<footer> & Pie de página de un documento o sección. \\
+\end{tabular}
+
+\section*{9. Atributos globales}
+\begin{tabular}{>{\ttfamily}l p{10cm}}
+\textnormal{Atributo} & Descripción \\
+\hline
+id="identificadorUnico" & Identificador único para el elemento. \\
+class="listaDeClases" & Lista de clases para estilizar con CSS. \\
+style="propiedad:valor;" & Estilos CSS directamente en el elemento. \\
+data-*="dato" & Almacena datos personalizados. \\
+title="informaciónAdicional" & Información que se muestra como tooltip. \\
+\end{tabular}
+
+\end{document}
+
+
+
+
