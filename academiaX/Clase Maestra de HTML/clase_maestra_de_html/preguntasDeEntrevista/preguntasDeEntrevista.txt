@@ -1,0 +1,74 @@
+----- TITULO: PREGUNTAS DE ENTREVISTA -----
+
+1. Cómo se define la versión de HTML en un documento?
+- Mediante la declaración <!DOCTYPE html> al inicio del documento.
+
+2. Cuál es el próposito de la etiqueta <head> en HTML?
+- Contiene metadatos e informacion sobre el documento, como el título y enlaces CSS.
+
+3. Qué representa la etiqueta <body>?
+- Define el cuerpo del documento, donde se coloca el contenido visible para el usuario.
+
+4. Para qué se utiliza la etiqueta <title>?
+- Especifica el titulo de la pagina, que se muestra en la pestana del navegador.
+
+5. Cómo se puede enlazar una hoja de estilos CSS externa? 
+- Usando <link rel='stylesheet' href='ruta.css'>
+dentro de <head></head>
+
+6. Qué es un elemento semántico en HTML?
+- Un elemento que describe claramente su significado tanto para el navegador como para el desarrollador, 
+como <article>, <section>, <footer>.
+
+7. Cómo se agrega un favicon a una pagina web? 
+- Con <link rel='icon' href='imagen.ico' en la sección <head>.
+
+8. Qué hace la etiqueta <meta charset='UTF-8'>?
+- Especifica la codificación de caracteres para el documento HTML.
+
+9. Cómo se crea un párrafo en HTML?
+- Usando la etiqueta <p> para encerrar el texto del párrafo.
+
+10. Qué función tiene la etiqueta <header>? 
+- Representa un contenedor para conteido introductorio o
+un conjunto de enlaces de navegación.
+
+11. Cómo se define una lista de definiciones en HTML?
+- Con las etiquetas <dl> para la lista, <dt> para el
+término y <dd> para la dfinición.
+
+12. Cómo se crea un campo de entrada detexto en un formulario?
+- Con la etiqueta <input type='text'>.
+
+13. Qué hace la etiqueta <nav>?
+- Define un conjunto de enlaces de navegación.
+
+14. Cómo se especifica un botón en un formulario?
+- Usando <button> o <input type='button'>.
+
+15. Para qué se utiliza la etiqueta <aside>?
+- Para contenido tangencialmente relacionado con 
+el contenido principal, como barras laterales.
+
+16. Cómo se incrusta un vido de YouTube en HTML?
+- Utilizando laetiqueta <iframe> con la URL del 
+video en el atributo src.
+
+17. Qué es una etiqueta de cierre en HTML?
+- Una etiqueta que finaliza un elemento, como </p>
+para cerrar un párrafo.
+
+18. Cómo se crea un enlace que abre en una nueva pestana?
+- Anadiendo target='_blank' a la etiqueta <a>.
+
+19. Qué hace la etiqueta <strong>?
+- Da énfasis al texto, generalmente mostrándolo en negrita.
+
+20. Cómo se anade un salto de línea adicional en el texto?
+- Usando la etiqueta <br>.
+
+
+
+
+
+

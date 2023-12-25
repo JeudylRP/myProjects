@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Noticias con Estilos CSS</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: hwb(197 35% 0%);
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .article {
+            width: 300px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            position: relative;
+            transition: transform 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        .article:hover {
+            transform: translateY(-12px);
+        }
+
+        .article img {
+            width: 100%;
+            height: auto;
+        }
+
+        .article-content {
+            padding: 15px;
+            transition: background-color 0.3s;
+        }
+
+        .article-content:hover {
+            background-color: #f9f9f9;
+        }
+
+        .article-content h2 {
+            margin-top: 0;
+            transition: color 0.3s;
+        }
+
+        .article-content:hover h2 {
+            color: #ff6600;
+        }
+
+        .article-content p {
+            margin-bottom: 10px;
+        }
+
+        .initial-description {
+            color: #888;
+            font-size: 14px;
+            margin-top: -10px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .article:hover .initial-description {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Últimas Noticias</h1>
+    </header>
+
+    <main>
+        <div class="article">
+            <img src="https://cdn2.mediotiempo.com/uploads/media/2020/02/26/noticias-deportivas-en-los-periodicos-13.jpg" alt="Noticia 1">
+            <div class="article-content">
+                <h2>Noticia 1</h2>
+                <p>Descripción de la noticia 1.</p>
+                <p>Autor: John Doe</p>
+                <p class="initial-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <img src="https://cdn2.mediotiempo.com/uploads/media/2020/02/26/noticias-deportivas-en-los-periodicos-13.jpg" alt="Noticia 2">
+            <div class="article-content">
+                <h2>Noticia 2</h2>
+                <p>Descripción de la noticia 2.</p>
+                <p>Autor: Jane Smith</p>
+                <p class="initial-description">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </div>
+        </div>
+
+        <div class="article">
+            <img src="https://cdn2.mediotiempo.com/uploads/media/2020/02/26/noticias-deportivas-en-los-periodicos-13.jpg" alt="Noticia 3">
+            <div class="article-content">
+                <h2>Noticia 3</h2>
+                <p>Descripción de la noticia 3.</p>
+                <p>Autor: Michael Johnson</p>
+                <p class="initial-description">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

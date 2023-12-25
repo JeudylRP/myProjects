@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Peliculas animadas</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .menu-btn {
+            display: none; /* El botón de menú estará oculto inicialmente */
+            cursor: pointer;
+            padding: 15px 20px;
+            background: #333;
+            color: #fff;
+            border: 1px solid white;
+            width: 30px;
+            margin: auto;
+        }
+
+        /* Estilos para las tarjetas de productos */
+        .product-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px;
+            width: 300px;
+            display: inline-block;
+        }
+
+        .product-card img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        /* Estilos responsivos */
+        @media (max-width: 600px) {
+            /* Cambios para dispositivos móviles */
+            .product-card {
+                width: 90%;
+                margin: 10px auto;
+            }
+
+            .menu-btn {
+                display: block; /* Mostrar el botón de menú en dispositivos más pequeños */
+            }
+
+            header {
+                padding: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Peliculas animadas</h1>
+        <div class="menu-btn">Menú</div>
+    </header>
+    <div class="product-card">
+        <img src="https://th.bing.com/th/id/R.66b87ed6a638c8e95294fbfcefb7dade?rik=rQh7x373c3xTZg&pid=ImgRaw&r=0" alt="Producto 1">
+        <h3>Pelicula 1</h3>
+        <p>Descripción del producto 1.</p>
+        <p>$19.99</p>
+        <a href="#">Comprar</a>
+    </div>
+    <div class="product-card">
+        <img src="https://th.bing.com/th/id/R.66b87ed6a638c8e95294fbfcefb7dade?rik=rQh7x373c3xTZg&pid=ImgRaw&r=0" alt="Producto 2">
+        <h3>Pelicula 2</h3>
+        <p>Descripción del producto 2.</p>
+        <p>$24.99</p>
+        <a href="#">Comprar</a>
+    </div>
+    <div class="product-card">
+        <img src="https://th.bing.com/th/id/R.66b87ed6a638c8e95294fbfcefb7dade?rik=rQh7x373c3xTZg&pid=ImgRaw&r=0" alt="Producto 3">
+        <h3>Pelicula 3</h3>
+        <p>Descripción del producto 3.</p>
+        <p>$29.99</p>
+        <a href="#">Comprar</a>
+    </div>
+</body>
+</html>

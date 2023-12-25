@@ -1,0 +1,17 @@
+<style>
+    div {
+        container: contenedor-x / inline-size;
+        background-color: blue;
+    }
+
+    span {
+        background-color: green;
+    }
+
+    @container contenedor-x (width <=200px) {
+        span {
+            background-color: red;
+        }
+    }
+</style>
+<div><span>Contenido</span></div>

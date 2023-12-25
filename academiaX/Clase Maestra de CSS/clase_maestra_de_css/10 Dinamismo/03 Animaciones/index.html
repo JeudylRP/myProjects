@@ -1,0 +1,23 @@
+<style>
+    @keyframes mover {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(200px);
+        }
+    }
+
+    .animacion-ejemplo {
+        width: 100px;
+        height: 100px;
+        background-color: royalblue;
+        animation-name: mover;
+        animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-iteration-count: infinite;
+        /* animation: mover 2s ease-in-out infinite; */
+    }
+</style>
+<div class="animacion-ejemplo"></div>
