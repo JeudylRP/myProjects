@@ -1,0 +1,10 @@
+----- Hola Mundo ------
+
+CSS fue propuesto por primera vez por Håkon Wium Lie en 1994. En ese momento, Lie estaba trabajando con Tim Berners-Lee en el CERN. Las discusiones dentro del World Wide Web Consortium dieron como resultado la primera Recomendación de CSS del W3C (CSS1) lanzada en 1996. Bert Bos influyó con recomendaciones y se convirtió en coautor de CSS1.
+
+CSS tiene varios niveles. Cada nivel de CSS se basa en el último y agrega nuevas funcionalidades. Tenemos CSS 1 (1996), CSS 2 (1998),  CSS 3 (1999), y ahora módulos.
+
+No existe una especificación CSS4 única e integrada, porque la especificación se ha dividido en muchos módulos separados que se nivelan de forma independiente.
+
+
+--- PRO TIP 👉 CSS no es un lenguaje de programación que pueda imprimir "Hola Mundo" por sí solo. Recuerda que CSS se utiliza para describir la presentación de un documento escrito en HTML o XML. Así que, para mostrar "Hola Mundo", necesitarás combinar CSS con HTML.
