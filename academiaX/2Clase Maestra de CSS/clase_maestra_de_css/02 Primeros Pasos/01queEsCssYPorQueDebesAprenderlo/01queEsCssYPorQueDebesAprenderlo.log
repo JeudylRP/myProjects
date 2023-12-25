@@ -1,0 +1,103 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  25 DEC 2023 13:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/jeudy/Documents/myProjects/academiaX/2Clase Maestra de CSS/clase_maestra_de_css/02 Primeros Pasos/01queEsCssYPorQueDebesAprenderlo/01queEsCssYPorQueDebesAprenderlo.tex"
+(c:/Users/jeudy/Documents/myProjects/academiaX/2Clase Maestra de CSS/clase_maestra_de_css/02 Primeros Pasos/01queEsCssYPorQueDebesAprenderlo/01queEsCssYPorQueDebesAprenderlo.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks19
+\labelindent=\skip50
+\enit@outerparindent=\dimen141
+\enit@toks=\toks20
+\enit@inbox=\box51
+\enit@count@id=\count194
+\enitdp@description=\count195
+) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box52
+) (01queEsCssYPorQueDebesAprenderlo.aux)
+\openout1 = `01queEsCssYPorQueDebesAprenderlo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+ [1
+
+{C:/Users/jeudy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (9.4173pt too wide) in paragraph at lines 38--39
+[]\OT1/cmr/m/n/10 Dise~nador/a de apli-ca-ciones m^^Soviles: Un dise~nador/a de apli-ca-ciones m^^Soviles
+ []
+
+[2]
+Overfull \hbox (2.61172pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/m/n/10 Dise~nador/a de correo electr^^Sonico: El salario prome-dio para un dise~nador/a
+ []
+
+
+Overfull \hbox (13.4729pt too wide) in paragraph at lines 50--51
+[]\OT1/cmr/m/n/10 Dise~nador/a de apli-ca-ciones m^^Soviles: El salario prome-dio para un dise~nador/a
+ []
+
+[3] (01queEsCssYPorQueDebesAprenderlo.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 838 strings out of 474587
+ 16659 string characters out of 5745693
+ 1930558 words of memory out of 5000000
+ 23084 multiletter control sequences out of 15000+600000
+ 562351 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,5n,50p,692b,216s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\jeudy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on 01queEsCssYPorQueDebesAprenderlo.pdf (3 pages, 56264 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
