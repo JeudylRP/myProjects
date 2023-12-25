@@ -1,0 +1,5 @@
+-----TITULO: USO-----
+---PRO TIP:
+-- En proyectos muy pequenos, pruebas o prototipos usa CSS en la
+etiqueta style por simplicidad. En proyectos grandes, usa CSS
+en archivos externos.
