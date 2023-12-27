@@ -1,0 +1,29 @@
+-----TITULO: UNIDADES-----
+Existen muchas otras unidades que puedes revisar en este recurso de Mozilla:
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Values_and_units (español)
+
+Cabe clarificar que cuando hablamos de la unidad de pixeles en CSS, 
+esta no se refiere a un pixel real del monitor, sino es un pixel de referencia que visualmente
+puede verse del mismo tamano en pantallas con diferentes resoluciones,
+Por esto es siempre una buena idea probar tu página web o aplicaión en diferentes dispositivos para ver 
+como se comporta.
+
+Aquí también dejo un artículo que habla de si deberíamos dejar de utilizar la unidades pixeles porque no es muy
+flexible. Hay muchos temas que son debatidos en esta industria, Lo que hoy es una buena practica puede cambiar 
+el día de manana así que ten una mente abierta al cambio. 
+Puedes dar un click derecho en Chrome para traducir el documento:
+
+https://medium.com/@julienetienne/pixels-are-dead-faa87cd8c8b9
+
+También te comparto una herramienta que creé para convertir unidades rem en pixeles:
+https://jsfiddle.net/academiax/af1jnuhw/7/embedded/result/dark/#Result
+
+
+
+PRO TIP 👉 No confíes únicamente en las unidades de pixeles para todos los elementos de diseño. 
+Considera el uso de unidades relativas como em, rem y porcentaje para crear diseños más flexibles y 
+accesibles que se ajusten mejor a diferentes tamaños de pantalla y configuraciones de usuario.
+

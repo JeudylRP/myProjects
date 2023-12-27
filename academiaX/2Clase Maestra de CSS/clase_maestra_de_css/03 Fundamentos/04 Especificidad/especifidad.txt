@@ -1,0 +1,9 @@
+----- TITULO: ESPECIFIDAD -----
+Aquí puedes ver un recurso interesante que te permite identificar el valor de la especificidad:
+
+https://polypane.app/css-specificity-calculator/#selector=
+
+PRO TIP 👉 Un error común en la especificidad de CSS es la sobre-especificación innecesaria, 
+que puede complicar el código y hacer que sea difícil de mantener. Por ello, mi consejo es mantener tu CSS lo más simple posible. 
+Utiliza selectores de clase en lugar de selectores de id o de etiquetas cuando sea posible. 
+Recuerda, menos es más en muchas situaciones, y este es un buen ejemplo de ello.

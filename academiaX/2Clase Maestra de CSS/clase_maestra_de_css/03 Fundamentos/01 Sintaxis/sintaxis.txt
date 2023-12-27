@@ -1,0 +1,10 @@
+-----TITULO:SINTAXIS-----
+Esta es una vista más completa de todas las partes de CSS:
+vzvuij1DShSIX2YmtQqj_CSS_REFERENCE_1_.jpg
+
+---PRO TIP:
+-- El error más común que cometen nuevos profgramadores en CSS es no usar correctaente
+los selectores y las propiedades. Muchos confunden las clases (.) con las id (#) y no aplican
+las propiedades correctaente al selector que desean. Mi Pro-tip para 
+ti sería: Siempre verifica detenidamente tus selectores y asegúrate de que las propiedades estén correctamente asignadas.
+Recuerda usar el punto (.) para las clases y numeral (#) para las id.

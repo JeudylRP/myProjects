@@ -1,0 +1,25 @@
+-----TITULO: CASCADA Y HERENCIA -----
+En resumen:
+"Cascada" es el efecto en el qe el último elemento que tiene el mismo estilo y la misma especifidad gana.
+
+"Herencia" es el efecto en que un elemento hijo hereda de los estilos del pdre, pero esto n o se aplica a todos los estilos ya que sería un dolor de cabeza.
+Estilos como el color heredan porque es algo regularmete deseado.
+
+El concepto de herencia tiene detalles adicionales ya que algunos elementos heredan por defecto mientras otros no.
+Puedes leer más en estos documentos de Mozilla:
+
+https://developer.mozilla.org/es/docs/Web/CSS/inheritance
+
+https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+
+PRO TIP 👉 Cuando trabajes con Cascada y herencia en CSS, evita utilizar selectores de etiquetas o universales con demasiada frecuencia,
+ ya que pueden afectar inadvertidamente otros elementos o secciones de tu página web debido a su amplio alcance.
+  En lugar de ello, utiliza selectores de clase o ID para tener un control más específico y dirigido de tu estilo.
+   También, recuerda que el orden importa en CSS. Si aplicas estilos contradictorios, el último prevalecerá en la cascada.
+    Mantén tus estilos bien estructurados y ordenados para evitar confusiones.
+
+
+
+
+

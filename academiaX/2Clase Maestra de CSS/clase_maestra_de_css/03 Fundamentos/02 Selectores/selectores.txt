@@ -1,0 +1,28 @@
+-----TITULO:SELECTORES-----
+
+Existen muchos más selectores que están especificados en modulo de Selectores de CSS.
+Este estándar es muy técnico y está escrito en inglés. 
+No es recomendado para sesarrolladores comundes.
+Está creado para desarrolladores que trabajan en navegadores, 
+pero es la fuente de la verdad cuadno busques de donde viene todos los selectores:
+
+https://drafts.csswg.org/selectors-3/#selector
+
+Ejemplos de estos otros selectores son:
+
+"*" selecciona todos los elementos
+
+"p[title]" seleccion todas las etiquetas p que tienen el atributo title.
+
+"p>div" selecciona la etiqueta div que es hija de una etiqueta p.
+
+"button:hover" selecciona el botón cuando el cursor está sobre el botón
+
+"div::after" selecciona una etiqueta 'ficticia' que se crea después de elemento div
+
+Vamos a ver ejemplos de otros selectores después en el curso.
+
+---PRO TIP:
+-- Cuando utilizas selectores en CSS, evita el uso excesivo de selectores universales o el anidamiento excesivo de selectores.
+Esto puede sobrecomplicar tu código y hacerlo menos eficiento. Es mucho mejor usar una clase ID para seleccionar un elemento de forma específica.
+Optimiza tu código, lo hace más fácil de leer y aumenta el rendimiento de tu sitio web.

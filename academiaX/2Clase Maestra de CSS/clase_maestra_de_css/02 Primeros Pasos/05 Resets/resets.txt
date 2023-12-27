@@ -1,0 +1,11 @@
+-----TITULO: RESETS-----
+Los resets más populares son:
+
+https://meyerweb.com/eric/tools/css/reset/
+
+https://necolas.github.io/normalize.css/
+
+---PRO TIP:
+-- Siemre aplica resets justo al iniciar un nuevo proyecto.
+Te evitará muchos dolores de cabeza.
+

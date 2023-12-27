@@ -1,0 +1,51 @@
+<!--Reto: 
+La cascada y la herencia son unas de las caracteísticas principales de CSS. 
+La herencia implica que algunas propiedads como el color y la fuente se heredan de los componentes padres a los hijos.
+
+En base al siguiento código, escribe el color que debe tener cada contenedor <div> en orden 
+de Abuelo a Hermano.: 
+cascada.png
+
+- Codigo inicial:
+negro, verde, azul, gris
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello </title>
+    <style>
+        #abuelo {
+            color: red !important;
+        }
+
+        .padre {
+            color: green;
+        }
+
+        .hijo {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="abuelo">
+        Abuelo
+        <div class="padre">
+            Padre
+            <div class="hijo">
+                Hijo
+                <div>Hermano</div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+<!--Solución:  rojo, verde, azul, azul-->

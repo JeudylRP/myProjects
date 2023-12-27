@@ -1,0 +1,35 @@
+<!--REO: CSS tiene diferentes unidades para expresar el tamaño del texto.
+Dada la siguiente imagen con código de HTML y estilos en línea, 
+determina cuál de los elementos (Abuelo, Padre o Hijo) tiene el tamaño de letra más grande en el navegador. 
+También indica cuál es su tamaño en pixeles en la siguiente línea.-->
+
+
+<html style="font-size: 12px">
+
+<body>
+
+    <ul style="font-size: 16px">
+        <li>Abuelo</li>
+        <ul style="font-size: 16px">
+            <li>Padre</li>
+            <ul style="font-size: 1.5em">
+                <li>Hijo</li>
+            </ul>
+        </ul>
+    </ul>
+</body>
+
+</html>
+
+
+<!--RECOMENDACIONES:
+- Recuerda que el tamaño de la fuente es una propiedad que se hereda pero puede ser sobreescrita.
+- Ten en cuenta que la unidad em no utiliza como referencia el valor de la raíz, sino de su padre más próximo.
+- El elemento Hijo tiene mayor tamaño al utilizar la unidad em.
+- El tamaño de la fuente Hijo es 12 (raíz) x 1.5 (rem en Padre) x 1.5(em en Hijo) que es 27px.
+- No uses símbolos de puntuación.-->
+
+
+<!--SOLUCION: 
+    Hijo= 12*1,5*1,5=27
+    Hijo 27px-->
