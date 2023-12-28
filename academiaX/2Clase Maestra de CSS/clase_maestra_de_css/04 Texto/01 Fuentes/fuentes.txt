@@ -1,0 +1,16 @@
+----- TITULO: FUENTES -----
+Aquí puedes ver el recurso de Google Fonts:
+
+https://fonts.google.com/
+
+Otras propiedades de texto que puedes revisar están en este recurso:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text
+
+Algo importante que debes saber es que al usar link o @import, 
+necesitas internet para que el navegador use estas fuentes. Cuando bajas la fuente y la incluyes en tu proyecto, las puedes usar sin internet.
+
+
+--- PRO TIP 
+--👉 Evita usar solo nombres de fuentes genéricas en tu CSS. En lugar de ello, 
+utiliza una pila de fuentes que incluya una fuente segura para la web y una familia de fuentes genéricas para asegurarte de que tu contenido se muestre de manera consistente en todas las plataformas y navegadores.
