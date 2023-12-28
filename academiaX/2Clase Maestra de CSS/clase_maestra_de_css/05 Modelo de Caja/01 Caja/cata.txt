@@ -1,0 +1,10 @@
+-----TITULO: CAJA-----
+Este es el modelo de caja o box model:
+caja.jpg.
+
+
+PRO TIP 👉 
+Uno de los errores más comunes al usar la Caja en CSS es olvidar considerar los rellenos, los márgenes y los bordes al establecer el ancho y la altura de un elemento. 
+Para evitarlo, recuerda emplear la propiedad 'box-sizing: border-box'. Esta propiedad incluirá el margen y el padding en el tamaño total de la caja, 
+así evitarás desbordamientos o cambios inesperados en la disposición de tu diseño. 
+Utilízala de forma consciente para mantener tus elementos de la forma en que los planeaste inicialmente.
