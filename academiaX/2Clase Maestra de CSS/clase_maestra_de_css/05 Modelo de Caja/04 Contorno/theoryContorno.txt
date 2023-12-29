@@ -1,0 +1,11 @@
+-----TITULO: CONTORNO-----
+---PRO TIP:
+-- Al utilizar las propiedades de contorno en CSS, 
+un error común es suponer que funcionará igual que el borde. 
+Pero no es así, recuerda que un contorno es una línea fuera del borde y no afecta al diseño ni al flujo del documento. 
+Mi recomendación es: utiliza el contorno cuando necesites enfatizar algunos elementos interactivos en tu página web, 
+pero no cuentes con él para estructurar tu diseño o separar elementos.
+
+
+
+
