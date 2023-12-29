@@ -1,0 +1,74 @@
+-----TITULO: MARGEN Y RELLENO -----
+Adicionalmente puedes indicar cada propiedadindividualmente sin usar la forma abreviada.
+Para el margen estas son.
+
+- margin-top: [arriba]
+- margin-right: [derecha]
+- margin-bottom: [abajo]
+- margin-left: [izquierda]
+
+Y para relleno estas son: 
+
+- padding-top [arriba]
+- padding-right[derecha]
+- padding-bottom[abajo]
+- padding-left [izquierda]
+
+
+Puedes ver como funcionan en el siguiente ejemplo. "teoriaMargenYRelleno.html" :
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+        }
+
+        div,
+        span {
+            background: green;
+            display: inline-block;
+        }
+
+        div {
+            /*margin: 80px 40px 10px 0;*/
+            margin-top: 80px;
+            margin-right: 40px;
+            margin-bottom: 10px;
+            margin-left: 0;
+        }
+
+        span {
+            /*padding: 80px 40px 10px 0;*/
+            padding-top: 80px;
+            padding-right: 40px;
+            padding-bottom: 10px;
+            padding-left: 0;
+
+
+
+        }
+    </style>
+
+    <title>Document</title>
+
+
+</head>
+
+<body>
+    <div>margen</div>
+    <span>rellenos</span>
+</body>
+
+</html>
+
+--- PRO TIP:
+-- Para evitar errores comunes en CSS relacionados con Margen(Margin) y
+Relleno (Padding), el pro tip consiste en recordad que el Margen afecta el espacio
+alrededor del elemeto, mientras que el Relleno afecta el espacio interior. 
+Ten siempre en cuenta esa diferencia para evitar solapamientos y problemas de 
+diseno no deseados.

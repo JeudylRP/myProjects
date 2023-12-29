@@ -1,0 +1,64 @@
+<!--RETO:
+Dado el siguiente ejemplo, agrega las propiedades correspondientes a la caja roja 
+para que esté 16px alejada hacia la derecha de la caja azul, 
+y a su vez que las letras de su interior estén a 16px de distancia del borde superior.
+
+CODIGO INICIAL:
+.caja-azul {
+  background-color: lightblue;
+  width: 100px;
+  height: 100px;
+}
+.caja-roja {
+  background-color: lightcoral;
+  width: 100px;
+  height: 100px;
+}
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hola</title>
+
+    <style>
+        .contenedor {
+            display: flex;
+        }
+
+        .caja-azul {
+            background-color: lightblue;
+            width: 100px;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .caja-roja {
+            background-color: lightcoral;
+            width: 100px;
+            height: 100px;
+            margin-left: 16px;
+            padding-top: 16px;
+            display: flex;
+            justify-content: center;
+
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="contenedor">
+        <div class="caja-azul">BOX 1</div>
+        <div class="caja-roja">BOX 2</div>
+    </div>
+</body>
+
+</html>
+
+<!--SUGERENCIAS:
+- Recuerda que a margin le podemos dar la dirección. Ej: margin-left.
+- No te preocupes por el tamaño final de la caja roja.
+- Intenta utilizar las propiedades margin-left y padding-top en la caja roja.-->
