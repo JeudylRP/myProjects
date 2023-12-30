@@ -1,0 +1,49 @@
+<!--RETO: 
+Crea un fondo gradiente que vaya de arriba a abajo en un elemento div.
+El gradiente debe ir de color negro a color blanco y tener una altura de 200px
+
+CODIGO INICIAL:
+div{
+    width: 100%;
+    height: 200px;
+}
+-->
+
+<!---->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(to bottom, #000, #fff);
+        }
+    </style>
+
+</head>
+
+<body>
+    <div></div>
+</body>
+
+</html>
+
+<!--RECOMENDACIONES:
+- Para crear un fondo gradiente en CSS, puedes usar la propiedad 'background' y la función 'linear-gradient()'.
+- La función 'linear-gradient() acepta varios argumentos para definir la dirección, el punto de inicio y los colores del gradiente.'
+- En este caso, queremos un gradiente que vaya de arriba a abajo, por loque usaremos el argumento 'to bottom'.
+- Los colores del gradiente deben ser negro en el inicio y blanco en el final. Puedes usar los códigos hexadecimales '#000' y '#fff' respectivamente.
+-->
+
+<!--SOLUCIÓN:
+div {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient( to bottom ,#000, #fff);
+        }
+-->
