@@ -1,0 +1,90 @@
+<!--RETO: 
+Crea un diseno de dos columnas donde el contenido de la columna de la izquierda ocupa el 
+30% del ancho total y la columna de la derecha el 70% restante-->
+
+<!--CODIGO INICIAL:
+.contenedor{
+    display: flex;
+}
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .contenedor {
+            display: flex;
+            flex-direction: column;
+            background-color: red;
+        }
+
+        .contenedor-horizontal {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .completo {
+            width: 100%;
+            background-color: red;
+        }
+
+
+        .derecha {
+            width: 70%;
+            background-color: green;
+            order: 2;
+
+
+        }
+
+        .izquierda {
+            width: 30%;
+            background-color: blue;
+            order: 1;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="contenedor">
+        <div class="completo">Completo 100%</div>
+        <div class="contenedor-horizontal">
+            <div class="derecha">Derecha 70%</div>
+            <div class="izquierda">Izquierda 30%</div>
+
+        </div>
+    </div>
+</body>
+
+</html>
+<!--RECOMENDACIONES:
+- Para crear un diseno de dos columnas puedes utilizar l propiedad 'display:flex'
+en el contenedor.
+- Puedes asignar un ancho específico a cada columa utilizando la propiedad 'width'.
+-Recuerda que la suma de los anchos de las columnas no debe superar el ancho total del contenedor.
+-->
+
+<!--SOLUCION:
+
+.contenedor {
+  display: flex;
+}
+
+.izquierda{
+ width: 30%;
+}
+
+.derecha{
+ width: 70%;
+}
+
+
+
+
+
+
+-->

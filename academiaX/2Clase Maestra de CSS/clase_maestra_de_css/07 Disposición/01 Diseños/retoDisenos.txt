@@ -1,0 +1,7 @@
+-----TITULO: DISENOS-----
+
+---PRO TIP:
+-- Un error bastante común al manejar CSS es la sobre-especificaión de estilos.
+Mi recomendación es que intentes mantener tu código lo más simple y claro posible para cada elemento.
+Utiliza clases y combina selectores dde manera eficiente para mantener un código limpio y fácil de mantener.
+Esto facilitará tu trabajo y optimizará el rendimiento de tu sitio web.
