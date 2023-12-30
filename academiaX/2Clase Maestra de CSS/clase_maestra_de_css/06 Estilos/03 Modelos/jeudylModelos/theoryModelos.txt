@@ -1,0 +1,5 @@
+-----TITULO: MODELOS-----
+paginas web importantes: 
+
+1. Página web para 'OKLCH' y 'LCH': https://oklch.com/
+2. Página web para 'Lab': https://observablehq.com/@d3/lab-color-picker

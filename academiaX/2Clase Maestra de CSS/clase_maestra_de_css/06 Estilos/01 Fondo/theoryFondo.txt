@@ -1,0 +1,19 @@
+-----TITULO: FONDO-----
+Este recurso excelente de Mozilla incluye más propiedades sobre el fondo:
+https://developer.mozilla.org/en-US/docs/Web/CSS/background
+
+La imagen del video de CSS ya no está disponible pero puedes usar esta URL de una imagen de HTML:
+
+https://www.xaviro.com/assets/2c07c8f61822f4d3a53b.svg
+
+
+---PRO TIP:
+-- Cometer errores es una parte integral del aprendizaje, 
+especialemente en programación. 
+Un error común que los nuevos programadores suelen hacer cuando usan 
+"Fondo" en CSS es uar mal las rutas de las imágenes de fondo. 
+Usar rutas incorrectas puede causar que la imagen de fondo no se carge correctamente.
+Por lo tanto, mi consejo de pro seria:
+Siempre verifica tu ruta de tu imagen de fondo cuando la estés utilizando en CSS.
+Garantiza que la ruta sea correcta y relativa a la hoja de estilo CSS y no al documento HTML.
+Así es como puedes evitar esa trampa común y asegurarte de que tu diseno se cargue como se esperaba.

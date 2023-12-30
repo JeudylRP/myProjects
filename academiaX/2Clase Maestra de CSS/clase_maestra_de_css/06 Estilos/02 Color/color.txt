@@ -1,0 +1,20 @@
+-----TITULO: COLOR -----
+Este es un recurso muy útil para ver las palabras claves para los colores más comunes:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+También puedes revisar este recurso con una lista de los colores y sus nombres en HTML:
+
+https://www.w3.org/wiki/CSS/Properties/color/keywords
+
+
+--- PRO TIP:
+-- Un error común que cometen los nuevos programadores al usar color en CSS 
+es usar nombres de colores en lugar de códigos de colores. 
+Procura usar códigos de colores hexadecimales o RGB en lugar de nombres, porque ofrecen un rango más amplio
+de opciones y no dependen de la interpretación del navegador.
+
+
+
+
+
