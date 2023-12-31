@@ -1,0 +1,64 @@
+<!--RETO:
+Instagram es una aplicación y red social propiedad de Meta. 
+Es una de las aplicaciones más famosas para compartir imágenes y videos. 
+Como en muchos sitios, la barra de navegación de Instagram es visible para los usuarios independientemente de la posición de la página en la que se encuentren. 
+Escribe los valores que necesita la barra de navegación para permanecer es esta posición.
+
+posiciones.png
+-->
+
+<!--CODIGO INICIAL:
+nav {
+  position:;
+  top:;
+}
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Acerca de</a>
+        <a href="#">Contacto</a>
+    </nav>
+
+    <div style="margin-top: 50px;">
+        <!-- El resto de tu contenido va aquí -->
+    </div>
+</body>
+
+</html>
+
+<!--RECOMENDACIONES:
+- Recuerda los valores que puede tener la propiedad position.
+- Piensa que valor le pondrías si quieres que esté en la parte más alta del viewport.
+- Puedes utilizar position: fixed y top: 0.-->
+
+<!--SOLUCION:
+nav {
+position: fixed;
+
+top: 0;
+}
+-->

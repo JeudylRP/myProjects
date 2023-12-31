@@ -1,0 +1,9 @@
+-----TITULO: POSICIONES -----
+
+
+PRO TIP 👉 Un error frecuente al tratar con posiciones en CSS es olvidar el contexto de posicionamiento. 
+Si un elemento tiene una propiedad 'position' establecida en 'absolute', su posición será relativa al primer elemento ancestro con posición no estática. 
+Si no existe tal elemento, la posición será relativa al documento. 
+Para evitar confusiones, siempre define explícitamente el contexto de posicionamiento en los elementos que serán contenedores de otros con posición 'absolute' o 'fixed', 
+usando 'position: relative' o cualquier otro valor distinto a 'static.
+

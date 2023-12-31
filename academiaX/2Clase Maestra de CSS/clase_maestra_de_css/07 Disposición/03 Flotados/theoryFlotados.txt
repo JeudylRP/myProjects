@@ -1,0 +1,10 @@
+-----TITULO: FLOTADOS-----
+
+-- PRO TIP:
+Uno de los errores más comunes al usar float es no limpiar los flotados,
+lo que puede causar problemas de desbordamiento y dieno que parecen inexplicables.
+Mi pro tip sería: siempre asegúrate de limpiar tus flotados después de usarlos.
+Puedes hacer esto automáticamente con la propiedad "clearfix" o manualmente insertando un lemento
+con la propiedadd "clear" después de tú último elemento flotado.
+
+

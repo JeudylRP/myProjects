@@ -1,0 +1,61 @@
+<!--RETO:
+Crea una disposición de dos columnas usando floats en CSS y divs en HTML.
+La columna de la izquierdad debe tener un ancho de 200px y la columna de la derecha
+debe llenar el resto del ancho.
+Asegúrate de que la primera columna trenga un margen derecho de 20px y que el
+contenido fluya correctamente-->
+
+<!--CODIGO INICIAL:
+div { height: 100px; }
+
+div.columna-izquierda {
+	width: 200px;
+	float: left;
+	background-color: #ccc;
+}
+
+div.columna-derecha {
+	float: right;
+	background-color: #eee;
+}
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            height: 100px;
+        }
+
+        div.columna-izquierda {
+            width: 200px;
+            float: left;
+            background-color: #ccc;
+            margin-right: 20px;
+        }
+
+        div.columna-derecha {
+            overflow: hidden;
+            background-color: #eee;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="columna-izquierda">Contenido de la columna izquierda</div>
+    <div class="columna-derecha">Contenido de la columna derecha </div>
+</body>
+
+</html>
+
+<!--SUGERENCIAS:
+- Para crear una disposición de varias columans en CSS, puedes usar el modelo de caja con float para colocar los elementos en el diseno deseado.
+- Asegurate de definir correctamente los anchos y alturas de los elementos para fluyan correctamente dentro del diseno.
+- Para evitar que los elementos floten fuera de su contenedor, puedes usar la propiedad 'overflow:hidden'.
+- El margen derecho rs importante para separar las columnas y darles un aspecto visual adecuado.
+-->
