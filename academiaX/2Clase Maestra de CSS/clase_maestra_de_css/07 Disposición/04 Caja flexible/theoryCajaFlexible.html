@@ -1,0 +1,61 @@
+<style>
+    body {
+        background: #f3d8d8;
+        padding: 15px;
+    }
+
+    #contenedor {
+        padding: 5px;
+        border: 3px solid black;
+    }
+
+    #contenedor>div>div {
+        width: 100px;
+        height: 100px;
+        background: brown;
+        border: 2px solid #380101;
+        color: white;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    #primera-fila {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #segunda-fila {
+        display: flex;
+        justify-content: center;
+    }
+
+
+    #tercera-fila {
+        /*'display:flex;' Las propiedades de Flexbox permiten controlar la dirección, el orden,
+        el aliniamiento y el tamano de los elementos hijos, tanto en el eje principal
+        (definido por la propiedad display: flex) com en el eje transversal*/
+        display: flex;
+        justify-content: space-between;
+
+    }
+</style>
+
+<body>
+    <div id="contenedor">
+        <div id="primera-fila">
+
+            <div>1</div>
+            <div>2</div>
+        </div>
+
+        <div id="segunda-fila">
+            <div>3</div>
+        </div>
+
+        <div id="tercera-fila">
+            <div>4</div>
+            <div>5</div>
+
+        </div>
+    </div>
+</body>

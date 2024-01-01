@@ -1,0 +1,20 @@
+-----TITULO: CAJA FLEXIBLE-----
+Existe todo un modulo de CSS para flexbox pero es muy técnico y es en inglés pero es la fuente de la verdad.
+
+w3.org/TR/css-flexbox-1/
+
+Este es un recurso más simple y divertido en donde puedes aprender y practicar el resto de propiedades de flexbox. 
+Tu tendrás las herramientas para crear un juego como este una vez que aprendas HTML, CSS, JavaScript y el DOM:
+
+https://flexboxfroggy.com/#es
+
+Aquí pueden ver otro ejemplo de uso muy bueno creado por una estudiante de Academia X (Reyna Gloria Martínez Rodríguez) y compartido en los comentarios.
+
+
+---PRO TIP:
+-- Uno de los errores más comunes que cometen los nuevos programadores al usar Flexbox en CSS es 
+no entender completamante cómo funciona el eje principal y el eje transversal.
+Mi consejo para evitar esta confusión es recordar siempre que el eje principal se determina por la propidad 'flex-direction',
+mientras que el eje transversal es perpendicular a este.
+Por ejemplo, si estás usando 'flex-direction: row (predeterminado)', entonces tu eje principal es horizontal y tu eje vertical.
+Este consejo te ayudará a tener un  mayor control al alinear y justificar tus ítems en la caja flexible.

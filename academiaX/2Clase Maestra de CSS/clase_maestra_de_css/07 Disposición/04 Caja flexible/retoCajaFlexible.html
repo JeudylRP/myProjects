@@ -1,0 +1,72 @@
+<!--RETO:
+Crea un layout de tres columnas donde la primera columna ocupe un 20% del ancho total (con fondo rojo), 
+la segunda columna un 60% (con fondo verde) y la tercera columna un 20% (con fondo azul). 
+Además, asegúrate de que las tres columnas estén alineadas verticalmente en el centro del contenedor.-->
+
+<!--CODIGO INICIAL:
+div {
+	display: flex;
+	justify-content: space-between;
+	background-color: lightgray;
+	width: 100%;
+	height: 200px;
+}
+
+div > div {
+	background-color: gray;
+	height: 100px;
+}-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ejemplo Flexbox</title>
+    <style>
+        div {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: lightblue;
+            width: 100%;
+            height: 200px;
+        }
+
+        div>div {
+            background-color: gray;
+            height: 100px;
+        }
+
+        div>div:first-child {
+            background-color: red;
+            flex-basis: 20%;
+        }
+
+        div>div:nth-child(2) {
+            background-color: green;
+            flex-basis: 60%;
+        }
+
+        div>div:last-child {
+            background-color: blue;
+            flex-basis: 20%;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</body>
+
+</html>
+
+
+<!--SUGERENCIAS:
+- Utiliza la propiedad 'flex-basis' para establecer el ancho inicial de cada columna.
+- Puedes utilizar las psudo-clases ':first-child' y ':last-child' para seleccionar la primera y última columna respectivamente.
+- Asegúrate de que el contenedor tenga una altura fija y utiliza la propiedad 'align-items' con el  valor 'center' para alinear verticalmente las columnas. 
+ -->
