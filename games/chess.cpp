@@ -20,6 +20,9 @@ void initializeBoard()
         board[6][i] = 'p'; // Peones negros
     }
 
+
+//HELLOOO !$&!$&!$&!$&146146146
+
     // Colocar torres
     board[0][0] = board[0][7] = 'T';
     board[7][0] = board[7][7] = 't';
