@@ -13,7 +13,7 @@ char board[BOARD_SIZE][BOARD_SIZE];
 // Inicializa el tablero con las piezas en sus posiciones iniciales
 void initializeBoard()
 {
-    // Colocar peones
+    // Colocar peonesAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDDDDDDDDD
     for (int i = 0; i < BOARD_SIZE; i++)
     {
         board[1][i] = 'P'; // Peones blancos
