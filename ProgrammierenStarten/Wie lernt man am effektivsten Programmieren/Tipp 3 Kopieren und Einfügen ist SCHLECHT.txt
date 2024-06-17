@@ -1,0 +1,16 @@
+------ KOPIEREN UND EINFÜGEN IST SCHLECHT
+--- Warum sollte man keinen Code kopieren?
+- Im Programmieralltag kommt es immer wieder vor, dass
+man nicht weiss wier man bei einem Problem weiterkommt.
+- Das erste was man in so einem Fall meistens tut ist ein 
+Programmierforum  zu öffnen und Lösungsvorschläge von dort
+zu kopieren!
+- Für erfahrene Programmierer ist das auch völlig in Ordnung!
+- Einsteiger tun sich damit aber keinen Gefallen!
+- Beim Kopieren vin Lösungen sewtzen wir uns gedanklich nicht mit dem 
+Lösungsweg auseinander und werden "denkfail!"
+- Gerade als Einsteiger ist es allerdings wichtig, seine Problemlösungs-
+fähigkeit zu trainieren. Denn PROGRAMMIEREN IS NICHTS ANDERES ALS DAS fORMULIEREN 
+von Lösungswegen für bestimmte Probleme!
+- Wenn wir selständig als Einsteiger über Probllemlösungsverfahren nachdenken,
+lernen wir wie ein richtiger Programmierer zu denken! 

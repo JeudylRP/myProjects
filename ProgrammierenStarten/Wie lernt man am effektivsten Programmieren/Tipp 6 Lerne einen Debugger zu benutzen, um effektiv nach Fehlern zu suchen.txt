@@ -1,0 +1,21 @@
+------ LERNE EINEN DEBUGGER ZU VERWENDEN!
+--- Was ist ein Debugger?
+- Ein Debugger ist ein Werkzeug mit welchen man Fehler im Programm
+aufspüren kann.
+- Er lässt einen das Programm Zeile für Zeile ausführen und
+den Programmablauf kontrolliert steuern, sodass man zu jedem
+Zeitpunkt sehen kann, was eigentlich im Code passiert.
+Er lässt einen zur Laufzeit auch die Werte von Variablen anzeigen.
+- Der Debugger beschleunigt die Fehlerscuche beim Programmieren enorm!
+
+--- Warum einen Debugger verwenden?
+-  Man findet Fehler im Programm schneller.
+- Das spart Zeit, Frustration und Energie.
+- Die wichtigsten und einfachsten Funktioenen eines Debuggers zu
+verwenden ist nicht schwer und schnell gelernt.
+
+- Die meisten Entwicklungsumgebungen haben einen eingebauten Debugger mit welchenman
+Breakponits im Code setzen kann und das Programm Schrittweise 
+ausführen kann.
+
+

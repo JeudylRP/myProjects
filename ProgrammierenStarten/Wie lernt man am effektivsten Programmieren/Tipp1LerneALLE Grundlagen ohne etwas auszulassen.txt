@@ -1,0 +1,5 @@
+-----Warum ist das Wichtig?
+- Die meisten Programmiereinsteiger gelangen beim Programmieren
+Lernen irgendwann in eine Sackgasse.
+- Der Grund dafür ist: Sie haben irgendwelche Grundlagen übersprungen!
+- In der Programmierwelt baut so gut wie alles aufeinander auf.

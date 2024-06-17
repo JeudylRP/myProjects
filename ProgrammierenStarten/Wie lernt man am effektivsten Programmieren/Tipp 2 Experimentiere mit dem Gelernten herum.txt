@@ -1,0 +1,16 @@
+----- EXPERIMENTIERE MIT DEM GELERNTEN!
+--- Warum es wichtig ist zu experimentieren.
+
+- Beim Programmieren Lernn kann man sehr viel Theorie lernen.
+- Auch wenn das wichtig ist, sollte man es nicht übertreiben
+und auch in die Praxis gehen!
+- Du verstehst die gelernten Konzepte erst dann, wenn du sie
+auch selbst in der Praxis angewendet hast!
+
+--- Wie solltest du also vorgehen? 
+- Schaue dir zuerst einzelne Videos zu einem Theman an!
+- Programmiere die kleinen Beispiele aus den Videos nach!
+- Experimentiere mit dem gelernten herum!
+
+- Was passiert wenn du den Aufbau einiger Beisppiele veränderst?
+- Welche eigenen Beispiele fallen dir zu den gelernten Konzepte ein?
