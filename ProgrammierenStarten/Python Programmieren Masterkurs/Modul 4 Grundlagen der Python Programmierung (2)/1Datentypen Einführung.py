@@ -1,0 +1,6 @@
+'''
+
+------ Warum Datentypen?
+
+
+'''

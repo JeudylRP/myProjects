@@ -1,0 +1,105 @@
+------ZUSAMMENFASSUNG GRUNDLAGEN DER PYTHON PROGRAMMIERUNG
+--- Ganzzahlen in Python
+-Ganze Zahlen sind Zahlen ohne eine Nachkommastellen, beispielweise
+10,25 oder 534.
+Beim prin() Befehl, nimmt Python immer an, dass es sich um
+eine positive Zahl handelt. Wenn du also ein minus (-) davor
+schreibst, erkennt Python dass hier eine negative Zahl vorliegt.
+
+--Operatoren:
+- In Python gibt es die normalen Grundrechenarten migt +, -, * und /.
+Beispiele:
+
+print(20+30)= 50
+print(20-30)= -10
+print(20*30)=600
+print(20/4)=5
+
+
+- Bei komplexeren Termen gelten Rechengesetze wie
+Punkt vor Strich. Auch Klammern können gesetzt werden.
+Zum Beispiel:
+
+print(20+2*2)= 24
+print(20(2+2)-4) = 76
+
+---Gleitkommazahlen in Python
+Gleitkommazahlen sind Zahlen die ein Komma enthalten,
+beispielweise 3,5 oder 423,8. Sie bestehen aus einem
+Vorkommateil und eine Nachkommateil, die durch ein
+Komma geteilt sind.
+
+!!!WICHTIG: In der Programmierung wird ein Komma immer als
+Punkt geschriebend.
+
+Auch mit Gleitkommazahlen können Rechenoperatore, wie
+oben gezeigt, angewendet werdn undauch in Terme integriert werden.
+
+---Wissenschaftliche Schreibweise:
+- Wenn besonders hohe oder kleine Zahlen vorlieegen, wird
+eine wissenschaftliche Schreibweise der Zahlen angewendet.
+Bei dieser kann beispielweise die Zahl 1.000.000 auch als
+10*10^6(10e^6).
+
+- Die Zahl 23456.7 kann als 234.456e^2 dargestellt werden.
+Durch das e wuerde also lediglich das Komma um 2
+Stellen nach rechts geschoben.
+
+- Durch ein negatives Vorzeichen vor dm e kann das Komma
+auch nach links geschoben werden.
+
+
+- Mit pyton haben Programmiere generell den Vorteil, dass sie nicht
+zwischen Gleitkomma- und Ganzzahlen unterscheiden müssen,
+denn Python übernimmt das ganz automatisch.
+
+--- ZEICHENKETTEN BZW. STRINGS IN PYTHON
+- Ein String ist eine Zeichenkette und kann aus Buchstaben. Zahlen,
+Leerzeichenoder anderen Zeichen bestehen.
+
+Das Hello Welt Programm aus der ersten Lektion arbeitret mit dem String
+"Hallo Welt". Dieser wurde durch die doppelten Anführungsstriche erzeugt.
+Aber auch einfache Anführungsstriche, (') sind in Python möglich.
+
+Mann kann doppelte und einfache Anführungsstriche kombinieren.
+Zum Beispiel: ,Das ist ein "Haus" oder auch "Das ist ein, Haus"
+
+-- Operatoren bei Strings:
+Auch bei Strings könne wir mit Operatoren arbeiten.
+Zum Beispiel:
+print("Hallo"+""+Welt)
+Hierdurch ist es möglich, mehrere Strings miteinander zu verketten.
+
+--- VARIABLEN
+Eine Variable ist eine Art Datenbehäälter, in dem man Werte einspeichern kann.
+Hierbei ist es wichtig, dass ein Bezeichner, also der Name der Variable
+vorliegt. Denn über diesen kann man die Variable ansprechen und mit ihr arbeiten.
+
+Bei der Bezeichnung von Variablen gilt es ein paar Dinge zu beachten.
+Zunächst sollte man am Namen erkennen können, was sich in der
+Variablen befindet, um später einen besseren Überblick zu haben.
+Es ist auch zu empfehlen, englische Begriffe zu verwenden.
+
+Mit Hilfe eines Zuweisungsoperators in Form eines=, weisen wir
+der Variable einen Wert zu.
+Beispiel:
+
+my_age= 26
+Wie der Name schon zeigt, könne Variablen auch wideder verändert werden.
+Mann kann so im laufenden Programm die Werte ändern.
+Bei jerder neuen Wertzuweisung. wird der vorherige WErt überschrieben.
+Es kann sich nur einem Zeitpunkt nur ein Wert innerhalb eineer Variablen befinden.
+Definiert man nun my_age = 27, ist der Wert ab dann 27.
+
+Möchte man mehreren Variablen zu Beginn den gleichen Wert zuweisen
+geht das beispielweise mit:
+
+a=b=c=1
+
+---Drei wichtige Regeln zu bezeichnung von Variablen:
+1. Der Bezeichner muss mit einem Buchstaben oder einem Unterstrich
+beginnen. Der Rest des Bezeichners darf Buchstabe, Zahl oder
+Unterstrich sein.
+2. Es dürfen keine Sonderzeichen verwendet werden.
+3. Bezeichner sind case sensitive, das heisst es wird zwischen Gross- und
+Kleinschreibung unterschieden.
