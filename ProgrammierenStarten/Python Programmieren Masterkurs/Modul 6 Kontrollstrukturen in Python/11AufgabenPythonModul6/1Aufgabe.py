@@ -14,7 +14,7 @@ Bei diesen Zahlen soll dann "teilbar durch 3 und 4"
 ausgegeben werden.
 
 '''
-
+'''
 def print_numbers():
     for i in range(1,101):
         if i % 3 == 0 and i % 4 == 0:
@@ -27,25 +27,17 @@ def print_numbers():
             print("Es ist nicht teilbar durch 3 oder 4: "+str(i))
 print_numbers()
 
+'''
+'''
+------ MUSTERLÖSUNG:
+'''
+for i in range(1, 101):
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    if (i % 3) == 0 and (i % 4) == 0:
+        print("teilbar durch 3 und 4")
+    elif (i % 3) == 0:
+        print("teilbar durch 3")
+    elif (i % 4) == 0:
+        print("teilbar durch 4")
+    else:
+        print(i)

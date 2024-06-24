@@ -13,7 +13,6 @@ oder zu multiplizieren.
 Je nachdem für welche Operation sich der Nutzer entscheidet, soll
 dann das entsprechede Ergebnis auf der Konsole
 ausgegeben w
-'''
 
 def taschenrechner():
     # Variablen
@@ -40,3 +39,46 @@ def taschenrechner():
     else:
         print("Ungültige Operation!")
 taschenrechner()
+'''
+
+'''
+------ MUSTERLÖSUNG:
+'''
+
+number1 = float(input("Gebe die erste Zahl ein: "))
+number2 = float(input("Gebe die erste Zahl ein: "))
+operation = input("Welche Operation (+,-,*,/)"
+                  "soll durchgeführt werden:")
+if(operation == "+"):
+    print(number1 + number2)
+elif(operation == "-"):
+    print(number1 - number2)
+elif(operation == "*"):
+    print(number1 * number2)
+elif(operation == "/"):
+    print(number1 / number2)
+else:
+    print("Ungültige Operation!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
