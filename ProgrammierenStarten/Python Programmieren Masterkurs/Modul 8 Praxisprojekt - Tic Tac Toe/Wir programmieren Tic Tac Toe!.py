@@ -1,7 +1,8 @@
 """
-
+------- TITEL: CODE JeudylRP
+"""
 def print_board(board):
-    
+
     for row in board:
         print(" | ".join(row))
         print("-" * 9)
@@ -62,6 +63,3 @@ def tictactoe():
 
 if __name__ == "__main__":
     tictactoe()
-"""
-
-print("Hello Word")
