@@ -18,9 +18,9 @@ selbst überlassen.
 aufgeteilt werden.
 2. Einzelne Module können unabhängig voneinander
 entwickelt werden.
-3. 
-4.
-
+3. Erhöhung der Wiederverwenbarkeit
+4. Vereinfachte Fehlersuche
+5. Verringerung von Abhängigkeiten
 '''
 
 

@@ -1,21 +1,15 @@
 '''
 ------- 2. Ein eigenes Modul programmieren
 ------- 3. Module einbinden/laden
+------- 4. Beispiel: Das built-in Modul Math
 '''
 
-#import ZDCalc as calculation
-from ZDCalc import faculty, addition
-
-def addition(a,b):
-    return a - b
-
-#from ZDCalc import faculty, addition
-import ZDCalc
+import math
 
 res = addition(5,10)
 print(res)
 
-res2 = faculty(5) #1*2*3*4*5
+res2 = math.factorial(5)
 print(res2)
 
 
