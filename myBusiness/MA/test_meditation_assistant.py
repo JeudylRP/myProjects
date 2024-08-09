@@ -4,7 +4,7 @@ from meditation_assistant import get_meditation_suggestion
 class TestMeditationAssistant(unittest.TestCase):
 
     def test_get_meditation_suggestion(self):
-        user_input = "Ich fühle mich gestresst."
+        user_input = "I feel stressed."
         result = get_meditation_suggestion(user_input)
         self.assertIsInstance(result, str)
         self.assertGreater(len(result), 0)
