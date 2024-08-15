@@ -2,6 +2,7 @@
 ------- 5. Das Spielfenster erzeugen:
 ------- 6. Titel, Framerate und Hintergrund modifizieren
 ------- 7. Das Raumschiff platzieren
+------- 8. Bewegungsmechaniken implementieren 0:00
 '''
 import pygame
 
