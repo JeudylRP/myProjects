@@ -51,6 +51,10 @@ class Game:
                         self.spaceship.move(-10)
                     if event.key == pygame.K_RIGHT:
                         self.spaceship.move(10)
+                    if event.key == pygame.K_SPACE:
+                        self.spaceship.fire_bullet()
+
+
                 if event.type == pygame.KEYUP:
                     if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                         self.spaceship.move(0)
@@ -66,6 +70,34 @@ class Spaceship:
         self.change_x = 0
         self.game = game
         self.spaceship_img = pygame.image.load("spr_spaceship.png")
+        self.bullets = []
+
+    def fire_bullet(self):
+        self.bullets.append(Bullet(self.game,self.x, self.y))
+        '''
+        'self.bullets.append(Bullet(self.game,self.x,self.y))'
+        Dieser Code fügt eine neue Kugel (Bullet) zu einer Liste
+        von Kugeln hinzu, die das Raumschiff abfuern kann.
+        
+        1. self.bullets: Dies ist die Liste, in der alle Kugeln gespeichert werden,
+        die das Raumschiff abgefeuert hat.
+        
+        2. append(Bullet(sel.game, self.x, self.y)):
+        Die fügt eine neue Kugel zur Liste hinzu. Die Kugel 
+        wird erstellt, indem die Position des Raumschiff (self.x ,self.y) verwendet wird,
+        damit die Kugen an der richtigen erscheint
+        
+        -> In einfachen Worten: Wen das Raumschiff schiesst, erstellt dieser Code eine neue
+        Kugel und fügt sie zur Liste der abgefeuerten Kugeln hinzu.
+        
+        
+        
+        
+        
+        06:10
+        
+        '''
+
 
     def move(self, speed):
         self.change_x = speed
@@ -104,6 +136,19 @@ class Spaceship:
         '''
 
         self.game.screen.blit(self.spaceship_img, (self.x, self.y))
+
+
+class Bullet:
+    def __init__(self,game,x,y):
+        self.x=x
+        self.y=y
+        self.game = game
+        self.is_fired = False
+        self.bullet_speed = 10
+        self.bullet_img = pygame.image.load("spr_patrone.png")
+
+
+
 
 if __name__ == "__main__":
     game=Game(800,600)
