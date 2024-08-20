@@ -1,10 +1,15 @@
 '''
-------- 5. Das Spielfenster erzeugen.
-------- 6. Titel, Framerate und Hintergrund modifizieren.
-------- 7. Das Raumschiff platzieren.
-------- 8. Bewegungsmechaniken implementieren.
-------- 9. Bewegung eingrenzen.
-------- 10. Geschoss implementieren 00:00
+------- 1. Wir programmieren
+------- 2. Ressourcen für das Spiel
+------- 3. Das Modul pygame (Neue Obe..)
+------- 4. Das Modul pygame (Alte Ober...)
+------- 5. Das Spielfenster erzeugen
+------- 6. Titel, Framerate und Hintergrund modifizi...
+------- 7. Das Raumschiff platzieren
+------- 8. Bewegung eingrenzen
+------- 8. Geschoss implementieren
+------- 10. ALiens Platzieren ---> 00:00
+------- 11.
 '''
 
 import pygame
@@ -21,31 +26,14 @@ class Game:
         self.running = True
         self.spaceship = Spaceship(self, 370, 515)
         self.background_img = pygame.image.load("spr_space_himmel.png")
-
         while self.running:
             self.clock.tick(60)
             self.screen.blit(self.background_img, (0, 0))
-            '''
-            1. self.screen: Dies ist die Oberfläche, auf der alle
-            Grafiken des Spiels gezeichnet werden.
-            Sie repräsentiert das Spielfenster.
-            
-            2. blit(): Dies ist eine Methode in Pygame, die
-            verwendet wird, um eine Oberfläche (z.B. ein Bild)
-            auf eine andere Oberfläche zu kopieren.
-            Mit anderen Worten, sie "malt" das Bild auf das Spielfenster.
-            
-            3. self.background_img: Dies ist das Bild, das als Hintergrund
-            verwendet wird. Es wird auf die Oberfläche ('self.screen') gezeichnet.
-            
-            4. '(0,0)': Dies gibt die Position an, an der das Bild auf dem
-            Bildschirm gezeichnet werden soll. '(0,0)'
-            bedeutet die linke obere Ecke des Spielfensters.            
-            '''
 
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     self.running = False
+
                 if event.type == pygame.KEYDOWN:
                     if event.key == pygame.K_LEFT:
                         self.spaceship.move(-10)
@@ -54,103 +42,68 @@ class Game:
                     if event.key == pygame.K_SPACE:
                         self.spaceship.fire_bullet()
 
-
                 if event.type == pygame.KEYUP:
                     if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                         self.spaceship.move(0)
 
             self.spaceship.update()
+            if len(self.spaceship.bullets) > 0:
+                for bullet in self.spaceship.bullets:
+                    if bullet.is_fired:
+                        bullet.update()
+
+                    else:
+                        self.spaceship.bullets.remove(bullet)
+
             pygame.display.update()
 
-
 class Spaceship:
-    def __init__(self, game, x, y):
-        self.x = x
-        self.y = y
+    def __init__(self, game,x,y):
+        self.x=x
+        self.y=y
         self.change_x = 0
         self.game = game
         self.spaceship_img = pygame.image.load("spr_spaceship.png")
         self.bullets = []
-
     def fire_bullet(self):
-        self.bullets.append(Bullet(self.game,self.x, self.y))
-        '''
-        'self.bullets.append(Bullet(self.game,self.x,self.y))'
-        Dieser Code fügt eine neue Kugel (Bullet) zu einer Liste
-        von Kugeln hinzu, die das Raumschiff abfuern kann.
-        
-        1. self.bullets: Dies ist die Liste, in der alle Kugeln gespeichert werden,
-        die das Raumschiff abgefeuert hat.
-        
-        2. append(Bullet(sel.game, self.x, self.y)):
-        Die fügt eine neue Kugel zur Liste hinzu. Die Kugel 
-        wird erstellt, indem die Position des Raumschiff (self.x ,self.y) verwendet wird,
-        damit die Kugen an der richtigen erscheint
-        
-        -> In einfachen Worten: Wen das Raumschiff schiesst, erstellt dieser Code eine neue
-        Kugel und fügt sie zur Liste der abgefeuerten Kugeln hinzu.
-        
-        
-        
-        
-        
-        06:10
-        
-        '''
-
+        self.bullets.append(Bullet(self.game, self.x, self.y))
+        self.bullets[len(self.bullets)-1].fire()
 
     def move(self, speed):
         self.change_x = speed
-
-        '''
-        Die Funktion 'move(self, speed)' legt fest, wie schnell sich
-        das Raumschiff horizontal bewegen soll. Wenn du eine Taste
-        drückst (z.B. die linke oder rechte Pfeiltaste), wird der Wert
-        'speed' an die Funktion übergeben, und die Variable 'self.change_x'
-        wird entsprechend angepasst. Dieser Wert wird später in der Funktion
-        'update' verwendet, um das Raumschiff zu verschieben.
-        '''
-
     def update(self):
         self.x += self.change_x
         if self.x < 0:
             self.x = 0
         elif self.x > 736:
             self.x = 736
-        '''
-        Die Zahl 736 kommt daher, dass dein Spielfenster eine Breite von 800 Pixeln hat.
-        Wenn das Raumschiff 64 Pixel breit ist (das ist eine typische Breite für Spiel-Sprites),
-        musst du sicherstellen, dass es nicht über den rechten Rand des Bildschirms hinausgeht.
-        
-        Das Bedeutet:
-        1. Die Breite des Spielfensters beträgt 800 Pixel.
-        2. Wenn das Raumschiff gaanz rechts auf dem Bildschirm 
-        sein soll, sollte, sollte seine x-Position so sein, dass der
-        rechte Rand des Raumschiffs 800 Pixel beträgt.
-        
-        Da das Raumschiff 64 Pixel breit ist:
-        - Di Maximale x-Position, bei der das Raumschiff noch komplett auf
-        dem Bildschirm ist, wäre 800-64 = 736 Pixel
-        Deshalb setzt du die grenze bei 736, damit das Raumschiff nicht über
-        den rechten Bildschirmrad hinaus rutscht.         
-        '''
-
         self.game.screen.blit(self.spaceship_img, (self.x, self.y))
 
-
 class Bullet:
-    def __init__(self,game,x,y):
-        self.x=x
-        self.y=y
-        self.game = game
-        self.is_fired = False
-        self.bullet_speed = 10
-        self.bullet_img = pygame.image.load("spr_patrone.png")
+     def __init__ (self,game,x,y):
+         self.x = x
+         self.y = y
+         self.game = game
+         self.is_fired = False
+         self.bullet_speed = 10
+         self.bullet_img = pygame.image.load("spr_patrone.png")
 
-
+     def fire(self):
+         self.is_fired = True
+     def update(self):
+         self.y -= self.bullet_speed #Geschoss nach oben bewegen
+         if self.y <= 0:
+             self.is_fired = False
+         self.game.screen.blit(self.bullet_img,(self.x, self.y))
 
 
 if __name__ == "__main__":
-    game=Game(800,600)
+    game = Game(800,600)
+    print(len(game.spaceship.bullets))
+
+
+
+
+
 
 
