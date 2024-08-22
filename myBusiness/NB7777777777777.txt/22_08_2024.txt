@@ -1,7 +1,25 @@
-22_08_2024 Titel: Creative capsule -> Sevice provider Lunch: Creative capsule
+**Date**: 22_08_2024  
+**Title**: Creative Capsule -> Service Provider Launch: Creative Capsule
 
-Other USe cases
+### Other Use Cases:
 
--Lending Decision
--Document Research 
--Code Quality improvoment
+- Lending Decision Support
+- Document Research Automation
+- Code Quality Improvement
+
+### **Custom ML vs. Off-the-Shelf LLM**:
+
+| **Aspect**                | **Custom ML**                    | **Off-the-Shelf LLM**           |
+|---------------------------|----------------------------------|---------------------------------|
+| **Staffing Cost**          | Higher due to specialized roles  | Lower due to pre-built models   |
+| **Model Training**         | Requires significant resources   | Minimal, if any, required       |
+| **Project Completion**     | Longer due to development time   | Faster with pre-trained models  |
+| **Infrastructure Cost**    | Higher for dedicated resources   | Lower, cloud-based solutions    |
+| **LLM Model Cost**         | Potentially higher for custom solutions | Standard pricing, pay-as-you-go |
+
+### **The Complexity Behind Simple Solutions**:
+
+- **AWS S3**: For scalable storage solutions
+- **AWS EventBridge**: For event-driven architecture
+- **AWS ECS**: For container orchestration and deployment
+
