@@ -1,0 +1,62 @@
+Aquí tienes las notas actualizadas sin la sección de la camisa personalizada:
+
+---
+
+**Reunión de Trabajo - Safezone**  
+**Fecha:** 24.08.2024  
+**Hora:** 17:00  
+**Participante Principal:** Alexis  
+
+---
+
+### 1. Próximos Eventos y Tareas Clave
+
+**24.10.2024:** Pitch de Safezone
+
+- **Presentación de Kilómetro 1:**  
+  - Duración máxima: 3 minutos.
+  - **Tarea:** Compartir con Alexis el PowerPoint de la presentación de Safezone.
+
+**Contenido de la Presentación:**
+- **Why Safezone:** Explicar la razón de ser de Safezone.
+- **¿Por qué y para qué?**: Profundizar en los objetivos y la visión de Safezone.
+
+### 2. Desarrollo Web y Aplicación
+
+- **Próximo fin de semana:**  
+  - Comenzar el desarrollo del front-end de la web y la aplicación de Safezone.
+  - Implementar ChatGPT para crear una membresía empresarial (business membership).
+
+### 3. Diseño y Branding
+
+- **Consulta de expertos:**  
+  - Preguntar a diseñadores expertos sobre cómo se ve la propuesta de Safezone en la versión móvil.
+
+### 4. Actividades de Diseño
+
+**Título:** Diseño del Front-End de Safezone
+
+- **IA en el diseño:**  
+  - Generar diseños automáticos utilizando inteligencia artificial para Safezone.
+  - Incorporar un botón flotante de reporte en la interfaz.
+
+- **Video de presentación:**  
+  - Realizar un video profesional de presentación de Safezone con expertos en Larmania, Baki.
+
+### 5. Tareas Pendientes
+
+1. **Bocetos:**  
+   - Crear dos bocetos de cómo se vería la aplicación en ambiente móvil utilizando IA (recomendada herramienta: [https://uizard.io/](https://uizard.io/)).
+
+2. **Script para Kilómetro 1:**  
+   - Escribir el guion para la presentación de Kilómetro 1.
+
+3. **PowerPoint:**  
+   - Continuar trabajando en el PowerPoint para la presentación.
+
+4. **Pago de Uizard:**  
+   - Realizar el pago de la herramienta Uizard para Safezone (utilizar el correo info@safezone.com.co).
+
+---
+
+Estas notas reflejan las modificaciones solicitadas.
