@@ -81,6 +81,20 @@ while run:
             print("Spieler " + winner + " hat gewonnen")
             run = False
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         if check_draw():
             print("Spiel ist unentschieden ausgegangen!")
             run = False
