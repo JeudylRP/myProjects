@@ -11,6 +11,73 @@
 ------- 10. Geschoss implementieren
 ------- 11. Aliens platzieren
 ------- 12. Kollision zwischen Alien und Geschoss erfassen
-------- 13. Game Over implementieren 00:00
+------- 13. Game Over implementieren WIEDERHOLEN
 ------- 14.
+------- 15.
+
+
+
 '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
