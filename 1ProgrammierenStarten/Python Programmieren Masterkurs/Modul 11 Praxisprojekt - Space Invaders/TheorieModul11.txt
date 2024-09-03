@@ -1,0 +1,14 @@
+------- Was ist eine Klasse?:
+Stellt dir vor, du möchtest viele ähnliche Dinge erstellen, zum Beispiel Autos.
+Jedes Auto hat bestimmte Dinge, die es ausmachen: eine Farbe, eine arke und ein Modell. Anstatt jedes Auto einzeln
+zu bescreiben, kannst du einen Bauplan erstellen, de beschreibt, wie ein Auto aufgebaut ist.
+Dieser Bauplan nennt sich Klasse.
+------- Was ist 'def'?:
+'def' ist ein Schlüsselwort in Python, mit dem du Funktionen erstellen kannst.
+Eine Funktion ist wie ein kleines Programm innerhalb deines Programms.
+Es ist ein Block deines Programms. Es ist ein Block von Code, den du immer
+wieder verwenden kannst, ohne ihn jedes Mal neu schreiben zu müssen.
+
+------- Wozu ist eine Funktion gut?
+Stell dir vor, du musst etwas immer wieder tun, wie zum Bespiel eine Zahl verdioppeln.
+Anstatt jedes Mal den Code zum Verdoppeln zu schreiben, kannst du eine Funktion erstellenm die das für dich übernimmt.
