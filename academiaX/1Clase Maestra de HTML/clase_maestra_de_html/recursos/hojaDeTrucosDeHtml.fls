@@ -1,6 +1,6 @@
-PWD c:\Users\jeudy\Documents\myProjects\academiaX\Clase Maestra de HTML\clase_maestra_de_html\recursos
+PWD c:\Users\jeudy\Desktop\Repository\myProjects\academiaX\1Clase Maestra de HTML\clase_maestra_de_html\recursos
 INPUT C:\Users\jeudy\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\jeudy\Documents\myProjects\academiaX\Clase Maestra de HTML\clase_maestra_de_html\recursos\hojaDeTrucosDeHtml.tex
+INPUT c:\Users\jeudy\Desktop\Repository\myProjects\academiaX\1Clase Maestra de HTML\clase_maestra_de_html\recursos\hojaDeTrucosDeHtml.tex
 OUTPUT hojaDeTrucosDeHtml.log
 INPUT C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
