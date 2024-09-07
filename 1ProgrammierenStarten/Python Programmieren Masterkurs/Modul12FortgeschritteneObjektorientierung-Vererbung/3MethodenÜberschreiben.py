@@ -1,36 +1,39 @@
 '''
-------- 3. Methoden Überschreiben 00:00
+------- 3. Methoden Überschreiben
 '''
+
 
 class Animal:
     def __init__(self, name, age, color, fav_food):
-        self.name = name
-        self.age = age
-        self.color = color
-        self.fav_food = fav_food
+        self.name = name  # Speichert den Naen des Tieres
+        self.age = age  # Speichert das Alter des Tieres
+        self.color = color  # Speichert die Farbe des Tieres
+        self.fav_food = fav_food  # Speichert das Lieblings des Tieres
 
     def sleep(self):
-        print("Ich schlafe gerade ...")
+        print("Ich schlage gerade...")  # Wenn das Tier schläft, zeigt es diesen Text an
+
+    def move_fast(self):
+            print("Aktuelle Geschwindigkeit: 20km/h")
 
 
 class Dog(Animal):
     def bark(self):
-        print("Wau Wau")
+        print("Wau Wau")  # Wenn der Hund bellt, zeigt es diesen Text an
+
 
 class Cat(Animal):
     def purr(self):
-        print("Schnurr Schnurr")
+        print("Schnurr Schnurr") #Wenn die Katze schnurrt, zeigt es diesen Text an
 
-dog = Dog("Bello", 4, "braun", "Fleisch")
-dog.sleep()
-print(dog.name)
-dog.bark()
+class Tiger(Animal):
+    def move_fast(self):
+        print("Aktuelle Geschwindigkeit: 80km/h")
 
-cat = Cat("Kitty", 10,"braun", "Fisch")
-cat.purr()
-print(cat.name)
-print(cat.age)
+dog = Dog("Bello", 4,"braum", "Fleisch")
+tiger = Tiger("Tigris", 5, "Oraange", "Fleisch")
 
-
+dog.move_fast()
+tiger.move_fast()
 
 
