@@ -1,9 +1,28 @@
-import openai
-from config import OPENAI_API_KEY
+import openai 
+from config import OPENAI_API_KEY 
+'''
+Hier wird die Vriable OPENAI_API_KEY  aus einer Separanten Datei
+namnes 'cnfig.py importient.
+Diese Datei enthält dfen API schlüssel, der für den Zugriff auf den OPENAI-API bnötigt wird.
+Der API schlüssel ist eine geheime Zeichenfolge, die sicher 
+
+aufbewahrt werden sollte, da er den Zugriff auf die Kostenpdlichtigen Dienste von OpenAI ermögliht.
+''''
 
 openai.api_key = OPENAI_API_KEY
-
+'''
+'openai.apkey = OPEN_API_KEY'
+Indieser Zeile wird der importierte API-Xhlüssel 'OPENAI_API_KEY' der 'api_key'
+Eigenschafft des 'openai' Moduls zugewiesen.
+Dadurch authentifiziert sich das Skript bei OpenAI und kann API-Anfragen senden.
+'''
 def get_meditation_suggestion(user_input):
+'''
+def get_meditation_suggestion(user_input):
+Hier beginnt die Definition einer Funnktion namens 'ge  ' 
+'''
+
+
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",

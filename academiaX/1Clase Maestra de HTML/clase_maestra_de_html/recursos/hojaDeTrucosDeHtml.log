@@ -1,85 +1,99 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.24)  24 DEC 2023 17:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.7)  7 SEP 2024 18:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/jeudy/Documents/myProjects/academiaX/Clase Maestra de HTML/clase_maestra_de_html/recursos/hojaDeTrucosDeHtml.tex"
-(c:/Users/jeudy/Documents/myProjects/academiaX/Clase Maestra de HTML/clase_maestra_de_html/recursos/hojaDeTrucosDeHtml.tex
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-11-09>
+**"c:/Users/jeudy/Desktop/Repository/myProjects/academiaX/1Clase Maestra de HTM
+L/clase_maestra_de_html/recursos/hojaDeTrucosDeHtml.tex"
+
+(c:/Users/jeudy/Desktop/Repository/myProjects/academiaX/1Clase Maestra de HTML/
+clase_maestra_de_html/recursos/hojaDeTrucosDeHtml.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
 (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen141
-\ar@mcellbox=\box51
-\extrarowheight=\dimen142
+)
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box52
+\extrarowheight=\dimen143
 \NC@list=\toks19
-\extratabsurround=\skip50
-\backup@length=\skip51
-\ar@cellbox=\box52
-) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
-\LTleft=\skip52
-\LTright=\skip53
-\LTpre=\skip54
-\LTpost=\skip55
-\LTchunksize=\count194
-\LTcapwidth=\dimen143
-\LT@head=\box53
-\LT@firsthead=\box54
-\LT@foot=\box55
-\LT@lastfoot=\box56
-\LT@gbox=\box57
-\LT@cols=\count195
-\LT@rows=\count196
-\c@LT@tables=\count197
-\c@LT@chunks=\count198
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box53
+)
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count268
+\LTcapwidth=\dimen144
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count269
+\LT@rows=\count270
+\c@LT@tables=\count271
+\c@LT@chunks=\count272
 \LT@p@ftn=\toks20
-) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+)
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count199
-\Gm@cntv=\count266
-\c@Gm@tempcnt=\count267
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
 \Gm@dimlist=\toks22
- (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count268
-\l__pdf_internal_box=\box58
+
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\jeudy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box59
 ) (hojaDeTrucosDeHtml.aux)
 \openout1 = `hojaDeTrucosDeHtml.aux'.
 
@@ -147,23 +161,31 @@ Overfull \hbox (34.82887pt too wide) in paragraph at lines 67--73
 [] 
  []
 
+
+
 [1
 
-{C:/Users/jeudy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (hojaDeTrucosDeHtml.aux)
+{C:/Users/jeudy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2] (hojaDeTrucosDeHtml.aux)
  ***********
-LaTeX2e <2023-11-01>
-L3 programming layer <2023-11-09>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-16>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1263 strings out of 474587
- 22180 string characters out of 5745693
- 1937558 words of memory out of 5000000
- 23490 multiletter control sequences out of 15000+600000
+ 1272 strings out of 473899
+ 22392 string characters out of 5726501
+ 1939960 words of memory out of 5000000
+ 24187 multiletter control sequences out of 15000+600000
  561877 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,265b,188s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+ 57i,9n,65p,275b,195s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb><C:/Users/jeudy/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on hojaDeTrucosDeHtml.pdf (2 pages, 67488 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
