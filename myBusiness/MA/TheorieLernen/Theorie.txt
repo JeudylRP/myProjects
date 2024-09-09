@@ -1,13 +1,36 @@
----Für meine Schüler:
-------- Was ist ein Sprachmodell?
-Ein Sprachmodel ist ein Program, das Text versteht und generiert.
-Es wurde trainiert, um menschliche Sprache zu "verstehn",
-indem es ganz viele Texte liest - soei Bücher, Atikel und mehr.
-Dabi lernt es, welche Wörter oft zusammen verwendet werden und wie Sätze aufgebaut sind.
+### Was ist ein Sprachmodell?
+Ein Sprachmodell ist ein Programm, das Texte versteht und generiert. Es wurde trainiert, um menschliche Sprache zu „verstehen“, indem es viele verschiedene Texte liest – wie Bücher, Artikel und mehr. Dabei lernt es, welche Wörter oft zusammen verwendet werden und wie Sätze aufgebaut sind.
 
-Wenn du zum Beispeil sagst: "Der Hund...", dann weiss das Modell dass, "bellt" oder "läuft" wahrcheinlich als nächstes Wort kommt,
-weil es viele solcher Sätze gelesen hat.
+Wenn du zum Beispiel sagst: „Der Hund…“, dann weiß das Modell, dass „bellt“ oder „läuft“ wahrscheinlich als nächstes Wort kommen wird, weil es viele ähnliche Sätze gelesen hat.
 
+Solche Modelle werden für viele interessante Dinge genutzt, wie Übersetzungen, Chatbots oder sogar das Schreiben von Geschichten. Die Modelle versuchen, die Bedeutung und den Zusammenhang der Wörter zu erkennen, um sinnvolle Antworten zu geben.
 
-Solche Modelle werden für viele interessante Sachen genutzt wie Übersetzungen, Chatbots oder sogar das Schreiben 
-von Geschichten. Die Modelle versuchen, die Bedeutung und den Zusammenhang der Wörter zu erkennen, um sinnvolle antworten zu geben.
+### Was ist RAG?
+RAG steht für „Retrieval-Augmented Generation“ (auf Deutsch „Wiederherstellungs-unterstützte Generierung“). Es ist eine Technik in der Künstlichen Intelligenz, die zwei wichtige Dinge kombiniert:
+
+1. **Wiederherstellung (Retrieval)**:  
+   Hierbei durchsucht das System riesige Datenbanken oder Dokumente, um relevante Informationen zu einem bestimmten Thema zu finden.
+
+2. **Generierung (Generation)**:  
+   Nachdem es relevante Informationen gefunden hat, nutzt das System ein Sprachmodell (wie das, über das wir gesprochen haben), um diese Informationen in einer verständlichen und nützlichen Antwort zusammenzufassen.
+
+Stell dir vor, du stellst einer KI die Frage: „Wie funktioniert ein Flugzeug?“. Die KI nutzt dann ihre Fähigkeit, Informationen aus vielen verschiedenen Quellen zu „wiederherstellen“ (also zu suchen) und erstellt aus diesen Informationen eine Antwort, die für dich verständlich ist.
+
+Diese Technik ist sehr nützlich, weil sie dem Sprachmodell hilft, bessere und genauere Antworten zu geben, besonders wenn es auf aktuelle oder spezielle Informationen zugreifen muss. So kann die KI nicht nur auf gespeicherte Informationen zugreifen, sondern auch aktiv Informationen aus anderen Quellen heraussuchen und verwenden.
+
+### Wie funktioniert RAG?
+RAG (Retrieval-Augmented Generation) funktioniert in zwei Hauptschritten. Schauen wir uns das in einfachen Worten an:
+
+1. **Der Abrufschritt (Retrieval Step)**:  
+   Zuerst sucht das System nach nützlichen Informationen in einer Datenbank oder im Internet. Es hat Zugriff auf viele Texte und Daten. Wenn du eine Frage stellst, durchsucht die KI diese Daten nach den relevantesten Dokumenten, Artikeln oder Texten, die deine Frage beantworten könnten.
+
+   - **Beispiel**: Du fragst: „Wie funktioniert ein Flugzeug?“ Die KI durchsucht nun Dokumente über Flugzeuge, Physik, Technik usw., um die besten Informationen zu finden, die deine Frage beantworten.
+
+2. **Der Generierungsschritt (Generation Step)**:  
+   Nachdem die KI die relevanten Informationen gefunden hat, verwendet sie ein Sprachmodell, um diese Informationen zu verarbeiten und dir eine verständliche Antwort zu geben. Dabei fasst sie die gesammelten Infos zusammen und formuliert sie in einem klaren und logischen Satz.
+
+   - **Beispiel**: Die KI hat mehrere Dokumente gefunden, die erklären, wie ein Flugzeug fliegt. Jetzt nutzt sie diese Daten, um eine einfache Antwort zu generieren, wie: „Ein Flugzeug fliegt, weil die Flügel Luft nach unten drücken und das Flugzeug nach oben schieben.“
+
+### Warum ist RAG besonders nützlich?
+Manchmal reicht es nicht aus, wenn eine KI nur das „weiß“, was sie in ihrem Gedächtnis gespeichert hat. Mit RAG kann die KI aktiv neue Informationen suchen, die sie vielleicht vorher nicht kannte. So kann sie immer aktuelle, korrekte und detaillierte Antworten liefern.
+
