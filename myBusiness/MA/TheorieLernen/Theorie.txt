@@ -1,0 +1,13 @@
+---Für meine Schüler:
+------- Was ist ein Sprachmodell?
+Ein Sprachmodel ist ein Program, das Text versteht und generiert.
+Es wurde trainiert, um menschliche Sprache zu "verstehn",
+indem es ganz viele Texte liest - soei Bücher, Atikel und mehr.
+Dabi lernt es, welche Wörter oft zusammen verwendet werden und wie Sätze aufgebaut sind.
+
+Wenn du zum Beispeil sagst: "Der Hund...", dann weiss das Modell dass, "bellt" oder "läuft" wahrcheinlich als nächstes Wort kommt,
+weil es viele solcher Sätze gelesen hat.
+
+
+Solche Modelle werden für viele interessante Sachen genutzt wie Übersetzungen, Chatbots oder sogar das Schreiben 
+von Geschichten. Die Modelle versuchen, die Bedeutung und den Zusammenhang der Wörter zu erkennen, um sinnvolle antworten zu geben.
