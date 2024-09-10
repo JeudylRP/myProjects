@@ -1,0 +1,131 @@
+### Mentoring mit Alexander Voigt:
+Ich fühle mich momentan nicht sicher genug, um selbstständig zu werden. Ich denke, dass der Zeitpunkt nicht der richtige ist.
+
+---
+
+### Notizen:
+
+**P1 bis P4**  
+Grundthemen von S1: Rentenabsicherung, Investmentthemen, und allgemeine finanzielle Themen durchgehen.
+
+- Ich erhalte Zugang zum System.
+- **E-Campus**: Hier sind alle Schulungen und Fachausbildungen verfügbar.
+- Vision und Kultur des Unternehmens, Möglichkeiten der Mitgestaltung.
+
+---
+
+### **E1 Altersvorsorge:**
+
+Wir haben in Deutschland ein Sozialsystem, das folgende Aspekte abdeckt:
+
+- Arbeitslosenversicherung
+- Pflegeversicherung
+- Rentenversicherung
+
+Deutschland hat ein System, das darauf abzielt, schwächere Mitglieder der Gesellschaft zu unterstützen.
+
+- Man erhält in der Regel eine Renteninformation, die wichtige Informationen enthält.
+
+**Wichtige Punkte der Renteninformation:**
+
+- **Rente wegen voller Erwerbsminderung**: Diese Rente wird gewährt, wenn jemand krankheitsbedingt nicht mehr arbeiten kann.
+- **Höhe der künftigen Regelaltersrente**: Der Anspruch auf die Rente basiert auf dem aktuellen Stand der Rentenpunkte und der Einzahlungen.
+
+Man muss die Renteninformation verstehen, da viele Menschen die Werte darin falsch interpretieren, insbesondere im Hinblick auf die **Inflation**. Viele Deutsche verwechseln diese Werte und verstehen nicht, dass die angegebene Rente nicht inflationsbereinigt ist.
+
+- Menschen kennen das Konzept der Inflation oft nicht oder ignorieren es.
+- Sie lesen nicht das Kleingedruckte auf der Renteninformation.
+
+**Aufgabe eines Beraters**: Die Leute aufklären, damit sie verstehen, wie ihre Rente aussieht und was sie real bedeutet.
+
+---
+
+### **Rentenbescheinigung richtig lesen:**
+
+In der Renteninformation steht ein wichtiger Hinweis:  
+„Bitte beachten Sie, dass von der Rente auch Kranken- und Pflegeversicherungsbeiträge sowie gegebenenfalls Steuern zu zahlen sind.“
+
+Dies bedeutet, dass der angegebene Rentenbetrag nicht vollständig zur Verfügung steht, da noch Abzüge vorgenommen werden.
+
+**Kaufkraftäquivalent**:  
+Man muss berücksichtigen, dass die Kaufkraft im Laufe der Zeit durch die Inflation abnimmt.
+
+---
+
+### **Rentenanpassung:**
+
+- Es gibt keine Garantie, dass die Renten jedes Jahr um 2 % angepasst werden. Es ist zwar möglich, aber nicht garantiert.
+
+**Beispiel:**  
+Christian verdient derzeit ca. 2.268 Euro monatlich, würde aber im Rentenalter nur etwa 1.369 Euro erhalten. Von dieser Rente müssen dann Steuern und Krankenversicherungsbeiträge abgezogen werden.
+
+Mathematische Berechnung:
+
+- **Reale Rente** = Rente - Steuern - Krankenversicherung - Inflation (nur 0,5 % berücksichtigt aufgrund der 1 % Rentensteigerung).
+
+---
+
+### **Vollständig nachgelagerte Besteuerung:**
+
+Mit der Zeit steigt der Steueranteil auf Renten. Daher muss die Beratungszeit effizient und effektiv genutzt werden, da die Zeit des Beraters kostbar ist.
+
+**Themen, die man in der Beratung vermeiden sollte:**  
+Politik, Religion, Sportarten.
+
+---
+
+### **Renteninformation (Rückseite):**
+
+- 43.200 Euro ist das aktuelle Durchschnittsgehalt, um einen Entgeltpunkt zu erhalten.
+- Man muss überdurchschnittlich verdienen, um mehr Entgeltpunkte zu sammeln.
+
+---
+
+### **Entgeltpunkte und deren Bedeutung:**
+
+- **Entgeltpunkte** spiegeln die Höhe deines Gehalts wider.  
+- Durch Inflation steigen die Löhne, und somit auch die Entgeltpunkte.
+  
+Im Jahr 2024 beträgt ein Entgeltpunkt etwa 45.000 Euro.  
+Ein Entgeltpunkt entspricht einem bestimmten Rentenbetrag (z. B. 25 Euro pro Punkt).
+
+- Akademiker müssen die Zeit aufholen, die sie im Studium verbracht haben, um die vollen 45 Arbeitsjahre zu erreichen.
+- Der Durchschnittsdeutsche sammelt pro Jahr einen Entgeltpunkt.
+
+---
+
+### **Rentenformel:**
+
+Die monatliche Rentenhöhe wird berechnet durch:
+
+**Entgeltpunkte** × **Zugangsfaktor** × **aktueller Rentenwert** × **Rentenartfaktor**.
+
+**Der Wert eines Entgeltpunktes hat zentrale Bedeutung für die Rentenhöhe!**
+
+- **Zugangsfaktor**: 1 (für die Altersrente).
+- **BBG (Beitragsbemessungsgrenze)**: Diese Grenze legt fest, bis zu welchem Einkommen Beiträge zur Rentenversicherung gezahlt werden.
+  - Durchschnittsgehalt: 40.000 Euro.
+  - Maximales Gehalt für Beitragsberechnung: 82.000 Euro.
+
+Die maximale Anzahl an Entgeltpunkten, die man pro Jahr sammeln kann, liegt bei etwa 2,04.
+
+---
+
+### **Wichtige Faktoren:**
+
+- Durchschnittliches Gehalt und die Beitragsbemessungsgrenze beeinflussen die Rentenhöhe.
+- Je höher das Einkommen, desto höher die Rente – jedoch nur bis zu einer bestimmten Grenze.
+- Daher ist eine zusätzliche Finanzberatung sinnvoll, um eine ausreichende Altersvorsorge sicherzustellen.
+
+---
+
+### **Fragen:**
+Hier kannst du deine individuellen Fragen ergänzen.
+
+---
+
+### **Dokumente:**
+
+Dokumente müssen unterschrieben und hochgeladen werden. Verwende dazu folgenden Link:  
+[Dokumente hochladen](https://edocbox.nepatec.de/edocbox/share/Share.jsp?token=hwt7VJrfr3Vnbv9lXLiAd2BPTseabH0rsLrwxTia20I)
+

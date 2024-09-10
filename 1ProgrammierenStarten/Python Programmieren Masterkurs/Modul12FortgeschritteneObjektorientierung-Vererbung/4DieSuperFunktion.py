@@ -66,7 +66,5 @@ den vererbten Attributen haben möchte.
 
 ----Was ist die Super funktion():
 Stellt dir vor, du baust 
-=======
-------- 4. Die Super()-Funktion 00:00
->>>>>>> e76d6ee2c407bc0d2097762e29e7fe21821ce963
+
 '''
