@@ -1,0 +1,49 @@
+**Titel:** How to Prototype  
+**Sprecher:** Prof. Oliver Fritz (Open Innovation Lab)  
+
+---
+
+### Architektur:
+
+- **Digitale Flächen**: Verwaltung und Organisation großer digitaler Flächen.  
+- Bedeutung der strukturierten Organisation bei der Entwicklung von Prototypen.
+
+---
+
+### Proof of Concept (PoC):
+
+- Vereinfachtes Projekt zur Überprüfung der Machbarkeit.
+- **Ziele**:  
+  - Technische und theoretische Bestätigung des Projektkonzepts.
+  - Dient als Zwischenstufe vor der Entwicklung eines Prototypen.
+- **Einsatz**: Vor der Prototypenphase, um Risiken zu minimieren und Grundannahmen zu testen.
+
+---
+
+### Produkt und Software:
+
+- Unterschiedliche Ansätze zur Prototypenentwicklung bei physischen Produkten und Software.  
+- **Software**: Iterative Entwicklung, kontinuierliche Verbesserung durch Nutzerfeedback.
+
+---
+
+### MVP: Minimum Viable Product:
+
+- Das kleinstmögliche, funktionierende Produkt, das getestet werden kann.  
+- Beispiel: „Ich produziere nur das Horn des Einhorns“ – Fokus auf den wesentlichen Teil des Produkts.
+- **Ziel**: Idee am Markt testen, Feedback einholen und entscheiden, ob das Produkt weiterentwickelt werden soll.
+
+---
+
+### On Demand (Permanent Beta):
+
+- Produkte und Software werden kontinuierlich verbessert, statt eine finale Version zu veröffentlichen.  
+- „Permanent Beta“ beschreibt den Ansatz, dass ein Produkt nie vollständig „fertig“ ist, sondern ständig angepasst und optimiert wird.
+
+---
+
+### Open Innovation Lab:
+
+- Das Open Innovation Lab ermöglicht den kontinuierlichen Austausch von Ideen, Daten und Innovationen in einem kollaborativen Umfeld.  
+- Hier werden Prototypen getestet und weiterentwickelt, basierend auf offenem Feedback und Daten von Nutzern.  
+
