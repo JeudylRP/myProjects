@@ -1,0 +1,38 @@
+Datum: 12_09_2024. Uhrzeit: 17:37
+
+---1. Ganzrationale Funktionen.
+
+Die Schüler analysieren Funktionen und stellen den zussammenhang zwischen 
+Fuktionen und derem Schaubildern her. Gerade als Schaubilder affiner Funktionen und Parabeln
+als Schaubilder quadratischer Funktionen werden hinsichtlich der charakteristischen Merkmale unsersucht.
+
+
+Funktion:
+- Definitions- und Wertemenge
+- Funktionsausgleichung.
+- Funktionenzuordnung.
+- Wertetabelle
+
+
+Geraden:
+- Steigung als Differenzquotient
+- Aufstellung von Geradengleichung 
+- Parallene und orthogonale Geraden    Proportionalität.
+
+Parabeln:    Hier bietet sich der CAS-Einsatz besonders an.
+- Achsenschnittpunkte, Scheitel, Symmetrie.    Potenzgesetze.
+- Aufstellung von Parabelgleichungen.   
+- Schnittprobleme.
+- Gleichung höheren Grades.   Lösungsmöglichkeiten
+
+
+------- Definitionen lernen:
+
+Ganzrationale Funktionen, auch Polynomfunktionen genannt, sind Mathematische Funktionen, bei denen
+die Variablen nur in positiven ganzzahligen Exponenten vorkommen. Das bedeutet, dass sie aus summen und Produkte von Potenzen der Variablen bestehen.
+
+1. a_n, a_{n-1}, ... a_0 sind Konstanten (Zahlen), die sogenannten Koeffizienten.
+2. x ist die Variable.
+3. 
+---2. Einführung in die Differenzial- ind Integralrechnung.
+Die Schüler ermitteln Ableitungn und Ableitungsfunktionen. Sie Fühe
