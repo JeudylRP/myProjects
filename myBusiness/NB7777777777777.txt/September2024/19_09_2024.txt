@@ -1,0 +1,45 @@
+**Titel: Termin mit Tobias - Hoffnungshaus, Datum: 16.09.2024** ,uhrzeit: 12:45
+
+### **Confraternidad Carcelaria de Colombia (Medellín)**
+
+#### **Wachstum & Ziele**
+- Die Organisation expandiert, insbesondere in Bereichen, in denen Christen als fleißige und engagierte Arbeitskräfte wahrgenommen werden.
+- **Ziel**: Eine christliche Jobbörse schaffen, um Christen in Arbeitsverhältnisse zu vermitteln und christliche Arbeitgeber mit geeigneten Arbeitern zu vernetzen.
+  - Die Plattform soll für alle christlichen Organisationen offen sein.
+  - Ziel ist es, Entwickler zu finden, die die Webseite aufbauen und betreiben.
+  - Kirchen und christliche Organisationen sollen über diese Plattform Arbeitskräfte finden können.
+
+#### **Ressourcen & Personal**
+- Folgende Positionen werden benötigt:
+  1. **Informatiker**: Zur Webentwicklung (z.B. mit WordPress und vorgefertigten Templates).
+  2. **Key Account Manager**: Zuständig für Vertrieb, Partnerschaften und Vernetzung.
+  
+#### **Technologien**
+- **WordPress**: Als Plattform für den Aufbau der Webseite.
+- **Templates**: Für eine effiziente und schnelle Implementierung.
+
+#### **Organisation & Netzwerk**
+- **Vernetzung**: 
+  - Es soll eine Einführung zwischen **Marius** und **Tobias** stattfinden.
+  - **Santiago Bulies** soll mit **Tobias** vernetzt werden.
+  - Auch **Marius Moht** soll mit **Tobias** in Kontakt gebracht werden.
+
+#### **Aufgabenstellung**
+- Erstellung von **Kurzprofilen** für Marius und Santiago, um ihre Kompetenzen und Aufgabenbereiche darzustellen und die Vernetzung zu erleichtern.
+
+#### **Fragen & Unklarheiten**
+- Welche **Vertriebsstrategien** sind geeignet, um die Plattform erfolgreich zu vermarkten?
+- Gibt es jemanden, der innovative Ideen für das **Marketing** einbringen kann?
+- Wie können wir jemanden finden, der bereit ist, die Arbeit entweder ehrenamtlich oder gegen eine geringe Vergütung zu übernehmen?
+
+#### **Budget**
+- Derzeit **ehrenamtlich**, mit der Möglichkeit einer späteren Vergütung, abhängig von den verfügbaren Ressourcen.
+
+#### **Externe Organisationen**
+- Zusammenarbeit mit **Prison Fellowship International**: [www.pfi.org](http://www.pfi.org) könnte das Projekt unterstützen.
+- Nutzung von **sozialen Netzwerken**, um die christliche Jobbörse in Kolumbien zu bewerben und zu verbreiten.
+
+#### **Christliche Jobbörse**
+- Die deutsche Plattform: [www.christliche-jobboerse.de](http://www.christliche-jobboerse.de) dient als Vorbild.
+- Die Idee ist, ein ähnliches Konzept in Kolumbien zu etablieren.
+
