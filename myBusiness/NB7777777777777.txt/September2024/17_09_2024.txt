@@ -1,0 +1,71 @@
+### Datenschutz für Gründende - Strategien für einen sicheren Start  
+**Name: Dornkamp**
+
+---
+
+### Überblick: Vorschriften und Grundsätze
+
+1. **Prüfung, ob personenbezogene Daten verarbeitet werden**:  
+   Zu Beginn ist festzustellen, ob das Unternehmen personenbezogene Daten verarbeitet. Wenn ja, müssen alle relevanten Datenschutzvorschriften beachtet werden.
+
+2. **Frühzeitige Bestimmung einer verantwortlichen Person für den Datenschutz**:  
+   Bestimme eine/n Datenschutzbeauftragte/n gemäß Art. 37 DSGVO i.V.m. § 38 BDSG, wenn dies notwendig ist. Diese/r sollte frühzeitig eingebunden werden, um Datenschutzstrategien zu entwickeln und umzusetzen.
+
+3. **Sorgfältige Auswahl von Dienstleistern**:  
+   Wähle nur solche Dienstleister, die den Anforderungen der DSGVO entsprechen. Ein Auftragsverarbeitungsvertrag ist abzuschließen (Art. 28 DSGVO).
+
+4. **Datenschutzfreundliche Konfiguration bei der Verwendung von Tools und Software**:  
+   Bei der Auswahl und Nutzung von (digitalen) Tools und Software sollte auf datenschutzfreundliche Voreinstellungen geachtet werden, wie z. B. auf die Speicherung von Standortdaten.
+
+---
+
+### Informationspflichten
+
+1. **Verantwortliche/r trifft geeignete Maßnahmen**:  
+   Der/die Verantwortliche muss sicherstellen, dass geeignete Maßnahmen zur Information der betroffenen Personen getroffen werden (Art. 13 und 14 DSGVO).
+
+2. **Informationen müssen präzise, transparent und verständlich sein**:  
+   Die Informationspflichten müssen so erfüllt werden, dass betroffene Personen einfach verstehen können, wie ihre Daten verarbeitet werden.
+
+---
+
+### Betroffenenrechte
+
+1. **Rechte der betroffenen Person**:  
+   Gemäß Art. 12 DSGVO i.V.m. Art. 15–22 DSGVO hat jede betroffene Person das Recht auf:
+   - Auskunft über die verarbeiteten Daten
+   - Berichtigung unrichtiger Daten
+   - Löschung ihrer Daten ("Recht auf Vergessenwerden")
+   - Einschränkung der Verarbeitung
+   - Datenübertragbarkeit
+   - Widerspruch gegen die Verarbeitung
+
+---
+
+### Praxistipps
+
+1. **Richtlinien für mobiles Arbeiten und Homeoffice erstellen**:  
+   Sensibilisiere Mitarbeitende für den datenschutzkonformen Umgang mit Daten im Homeoffice und bei mobiler Arbeit. Dies umfasst die Absicherung von IT-Systemen und die Vermeidung von Datenschutzverstößen.
+
+2. **Regelmäßige Überprüfung und Aktualisierung der TOMs**:  
+   Technische und organisatorische Maßnahmen (TOMs) müssen regelmäßig überprüft und bei Bedarf aktualisiert werden, um den Datenschutz kontinuierlich zu gewährleisten.
+
+---
+
+### Meldungen, Verstöße und Bußgelder
+
+1. **Jeder Datenschutzvorfall muss dokumentiert werden**:  
+   Jede Datenschutzverletzung ist intern zu dokumentieren, um den gesetzlichen Nachweispflichten nachzukommen. Dabei sollten folgende Punkte festgehalten werden:
+   - Was ist passiert?
+   - Welche Daten sind betroffen?
+   - Welche Maßnahmen wurden ergriffen?
+
+2. **Recht der betroffenen Person auf Beschwerde**:  
+   Betroffene Personen haben nach Art. 77 DSGVO das Recht, sich bei der zuständigen Aufsichtsbehörde zu beschweren.
+
+3. **Schadensersatzanspruch**:  
+   Art. 82 DSGVO sieht vor, dass betroffene Personen im Fall eines Datenschutzverstoßes Anspruch auf Schadensersatz haben.
+
+4. **Bußgelder bei Verstößen**:  
+   Art. 83 DSGVO regelt die Höhe möglicher Bußgelder für Verstöße gegen die Datenschutzvorschriften. Diese können bei schweren Verstößen erheblich sein.
+
