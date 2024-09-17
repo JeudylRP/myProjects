@@ -83,3 +83,4 @@
 
 **Aufgabe für safezone**: Recherchiere die Datenschutzanforderungen in **Kolumbien**, **Deutschland** und der **Schweiz**, um sicherzustellen, dass alle regionalen und internationalen Datenschutzvorschriften für deine App beachtet werden.
 
+Auf Spanisch wird die **DSGVO** (Datenschutz-Grundverordnung) als **RGPD** bezeichnet, was für **Reglamento General de Protección de Datos** steht.
