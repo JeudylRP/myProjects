@@ -1,3 +1,25 @@
-Titel: Termin mit 
+**Titel: Meeting mit David Moser (UI/UX Designer)**
 
+---
 
+**Gedanken von David:**
+- Relevanz: Das Design ist universell anwendbar und überall einsetzbar.
+
+---
+
+**Vorteile im Design:**
+- Profilbereich: Ein großes Element sollte hinzugefügt werden, um das Profil hervorzuheben.
+- Als Statistiker ist das Design funktional.
+- Wir heben eine Karte hervor; Berichte und Meldungen sind gut integriert.
+- Das Fundbüro-Interface ist effektiv gestaltet.
+
+---
+
+**Verbesserungsvorschläge:**
+- Bei Statistiken werden Items doppelt angezeigt.
+- Bessere Strukturierung der Abteilungen und Einführung von verschiedenen Kategorien.
+
+---
+
+**Nachteile im Design:**
+- (Hier fehlt noch der Input; ggf. nachtragen)
