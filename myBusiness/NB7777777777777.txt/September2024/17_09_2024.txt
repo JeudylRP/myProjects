@@ -1,0 +1,94 @@
+### Datenschutz für Gründende – Strategien für einen sicheren Start  
+**Name: Raphaela Beiser Dornkamp**
+
+---
+
+### Überblick: Vorschriften und Grundsätze
+
+1. **Prüfung, ob personenbezogene Daten verarbeitet werden**:  
+   Zu Beginn sollte geprüft werden, ob im Unternehmen personenbezogene Daten erhoben oder verarbeitet werden. Ist dies der Fall, sind alle relevanten Datenschutzvorschriften zu beachten.
+
+2. **Frühzeitige Bestimmung einer verantwortlichen Person für den Datenschutz**:  
+   Bestimme frühzeitig eine/n Datenschutzbeauftragte/n gemäß Art. 37 DSGVO i.V.m. § 38 BDSG, falls die Voraussetzungen dafür erfüllt sind. Diese Person ist verantwortlich für die Entwicklung und Umsetzung der Datenschutzstrategien.
+
+3. **Sorgfältige Auswahl von Dienstleistern**:  
+   Achte darauf, nur Dienstleister zu wählen, die den Anforderungen der DSGVO gerecht werden. Schließe in jedem Fall einen Auftragsverarbeitungsvertrag ab, um die Datenverarbeitung gemäß Art. 28 DSGVO zu regeln.
+
+4. **Datenschutzfreundliche Konfiguration bei der Verwendung von Tools und Software**:  
+   Bei der Auswahl und Nutzung digitaler Tools und Software sollten datenschutzfreundliche Voreinstellungen verwendet werden. Dies schließt insbesondere die minimale Erhebung von Standortdaten und anderen sensiblen Informationen ein.
+
+---
+
+### Informationspflichten
+
+1. **Verantwortliche/r trifft geeignete Maßnahmen**:  
+   Der/die Verantwortliche muss sicherstellen, dass betroffene Personen präzise, transparente und leicht verständliche Informationen über die Verarbeitung ihrer Daten erhalten (Art. 13 und 14 DSGVO).
+
+2. **Präzision und Transparenz**:  
+   Die Informationspflichten müssen in einer klaren, verständlichen und zugänglichen Form erfüllt werden, sodass betroffene Personen nachvollziehen können, wie ihre Daten verarbeitet werden.
+
+---
+
+### Betroffenenrechte
+
+1. **Rechte der betroffenen Person**:  
+   Gemäß Art. 12 DSGVO i.V.m. Art. 15–22 DSGVO haben betroffene Personen das Recht auf:
+   - Auskunft über die verarbeiteten Daten,
+   - Berichtigung unrichtiger Daten,
+   - Löschung der Daten ("Recht auf Vergessenwerden"),
+   - Einschränkung der Verarbeitung,
+   - Datenübertragbarkeit,
+   - Widerspruch gegen die Verarbeitung.
+
+---
+
+### Praxistipps
+
+1. **Richtlinien für mobiles Arbeiten und Homeoffice**:  
+   Erstelle klare Datenschutzrichtlinien für Mitarbeitende, die im Homeoffice oder mobil arbeiten. Diese Richtlinien sollten den sicheren Umgang mit IT-Systemen und Datenverarbeitung betreffen und auf die Vermeidung von Datenschutzverstößen abzielen.
+
+2. **Regelmäßige Überprüfung und Aktualisierung der TOMs**:  
+   Technische und organisatorische Maßnahmen (TOMs) sollten regelmäßig überprüft und an aktuelle Datenschutzanforderungen angepasst werden, um den Schutz personenbezogener Daten sicherzustellen.
+
+---
+
+### Meldungen, Verstöße und Bußgelder
+
+1. **Dokumentation von Datenschutzverstößen**:  
+   Jede Datenschutzverletzung muss intern dokumentiert werden, um den gesetzlichen Nachweispflichten nachzukommen. Folgende Informationen sollten festgehalten werden:
+   - Was ist passiert?
+   - Welche Daten sind betroffen?
+   - Welche Maßnahmen wurden ergriffen?
+
+2. **Recht auf Beschwerde bei der Aufsichtsbehörde**:  
+   Betroffene Personen haben gemäß Art. 77 DSGVO das Recht, sich bei der zuständigen Datenschutzbehörde zu beschweren, wenn sie der Meinung sind, dass ihre Rechte verletzt wurden.
+
+3. **Schadensersatzanspruch**:  
+   Nach Art. 82 DSGVO können betroffene Personen im Falle eines Datenschutzverstoßes Schadensersatz verlangen.
+
+4. **Bußgelder bei Verstößen**:  
+   Art. 83 DSGVO legt fest, dass schwere Verstöße gegen die Datenschutzvorschriften mit hohen Bußgeldern geahndet werden können. Insbesondere Verstöße gegen den Schutz sensibler Daten, wie Gesundheits- oder Kinderdaten, können besonders hohe Strafen nach sich ziehen.
+
+---
+
+### Exkurs: Datenschutz und Social Media
+
+1. **Auswahl von Dienstleistern**:  
+   Wähle sorgfältig Dienstleister für die Social-Media-Integration, um sicherzustellen, dass die Datenverarbeitung DSGVO-konform ist.
+
+2. **Übertragung in die USA**:  
+   Achte darauf, dass bei der Verwendung von Social-Media-Diensten, die in den USA gehostet werden, entsprechende Schutzmaßnahmen wie Standardvertragsklauseln (SCCs) oder andere Mechanismen zur Datensicherung getroffen werden. In einigen Fällen kann dies unzulässig sein, wenn keine ausreichenden Datenschutzgarantien bestehen.
+
+---
+
+**Aufgabe für safezone**: Recherchiere die Datenschutzanforderungen in **Kolumbien**, **Deutschland** und der **Schweiz**, um sicherzustellen, dass alle regionalen und internationalen Datenschutzvorschriften für deine App beachtet werden.
+
+Auf Spanisch wird die **DSGVO** (Datenschutz-Grundverordnung) als **RGPD** bezeichnet, was für **Reglamento General de Protección de Datos** steht.
+
+
+
+
+
+
+
+

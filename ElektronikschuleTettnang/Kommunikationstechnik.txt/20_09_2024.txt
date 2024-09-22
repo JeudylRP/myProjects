@@ -1,0 +1,63 @@
+------- Motherboard
+1. Wozu dienen die Bussysyteme auf meinem Motherboard?
+- Datenaustausch zwische den verschiedenen Komponenten des computer ermöglichen.
+
+2. Was versteht man unter einem Chipsatz? 
+- Ein Chipsatz ist eine Gruppe von integrierten Schaltungen auf dem Motherboard, die steuert,
+wie die verschiedenen Hardware-Komponenten des Computes miteinander kommunizieren.
+eins
+3. Wozu dient der Chipsatz?
+- Der Chipsatz auf einem Motherboard dient dazu, die Kommunikation zwischen der CPU und den anderen 
+Komponenten des Computers, wiE aRBEITSSPEICHER; fESTPLATTEN ZU STEUERN.
+
+4.Wodurch wird festgelegt, wie viel Arbeitsspeicher ein Motherboard aufnehmen kann?
+-Die Menge des Arbeitsspeichers, dein ein Motherboard aufnehmen kann, wird durch
+den Chipsatz festgelegt. Der Chipsatt bestimmt, wie viel RAM maximal
+installiert werden kann und welche Art von RAM unterstütz wird.
+
+5. Was wird die "Northbridge" eines Chipsatzes angesteuert?
+.- Die Northbridge eines Chipssatzes steuert den Zugriff der CPU auf den 
+Arbeitsspeicher (RAM) und die Grafikkarte. Sie bestimmt die Gerschwindigkeit, miteinanderder die CPU mit diesen Komponenten kommunizieren kann. In eineigen Fällen
+ist die Grafikkarte dirtekt in die Northbridge integriert, um die Leistung zu optimieren.
+
+
+------- CPU
+1. Welcher deutsche Begriff steht hiter der  Abkürzung CPU (Central Processing Unit)?
+Der deutsche Begriff für CPU ist Zentrale Verarbeitungseinheit.
+
+2. Welche AUFGABE HAT DIE CPU?
+Die CPU führt die meisten Berechnungen im Computer durch und ist das zentrale Element zur Steuerung aller Prozesse.
+
+
+3. wie wird eine CPU auch bezeichnet?
+Eine CPU wird auch als Prozessor bezeichnet.
+
+4.Nennen Sie zwei CPU-Hersteller.
+Zwei bekannte CPU-Hersteller sind Intel und AMD.
+
+
+5. 
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.

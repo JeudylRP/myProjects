@@ -1,0 +1,47 @@
+Datum: 20/09/2024 Uhrzeit: 14:00
+
+
+1. Was ist elektrizität?
+- Elektrizität ist der Fluss von Elektroenen durch einen Leiter (z.B. ein Draht).
+Wenn Elektronen sich bewegen, erzwugen sie Energie, die genutzt werdem kann, um Geräte zu betreiben.
+
+2. Was ist Spannung?
+- Spannung(U): Das ist die Kraft, die die Elektronen antreibt. Sie wird in Volt(V)
+gemessen. Stell dir das wie einen Druck vor, der Elektronen durch den Draht schiebt.
+- Das Formalzeichen U kommt vom lateinischen Wort "Unterschied", weil
+Spannung eigentlich der Potentzialunterscheid zwischen zei Punkten ist.
+Elektrische Spannug beschreibt den Unterschied im elektrischen Potentzialunterscheidzwischen zwei Punkten 
+in einem Stromkreis, ähnlich wie der Höhenunterschied bei Wasser, das einen Fluss antreibt.
+- Ein anderes Symbol wäre "V" (für Volt), aber "U" wurde bevorzugt, um den Unterschied klar zu machen.
+
+
+3. Was ist Strom (I): Das ist die Menge an Elektronen, die durch den Draht flessen. Sie wir in Ampere(A) gemessen.
+- Das Formelzeichen I kommr von französischen Wort "Intensite du courant", was die Intensität des Stroms bedeutet. 
+Diese Bezezichnunf geht auf den französisichen Physiker "André.-Marie Ampere" zurrück, der Pionierarbeit auf dmem Gebiet des elektrischen Stroms leistet.
+- Der Buchstabe "A"  wäre auch möglich, aber dieser wird für die Einheit "Ampere" verwedet, sodass I für die Strmstärke bleibt.
+
+
+
+4. Widerstand (R): Das ist Widerstand, den ein Material dem Fluss von Elektronen entgegenetzt. EIn hoher Widerstand lässt weniger Strom
+durchfliessen, während ein niedrigerWiderstand mehr Strom durchlässt.
+Gemessen wird er in Ohm (Ω)
+
+- Das Formelzeicehn R stamm einfach von 
+
+
+
+5. Ohmsches Gesetzt:
+Das Ohmsche Gesetzt ist eine der wichtigsten Grundlagen in der Elektronik.
+Es besagt, dass Spannung, Stom und Widerstand durch die Formel verbunden sind:
+
+U = I*R
+
+Das bedeut3et, dass die Spannung gleich dem Strom multipliziert mit dem Widerstand ist.
+Mit dieser Formel kannst du berechnen, wie viel Spannung 
+oder Strom in einer Schaltung herrscht, wenn du den Widerstand kennst.
+
+6. Wichtige Bauteile in der Elektornik:
+
+
+
+
