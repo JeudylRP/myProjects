@@ -1,8 +1,6 @@
 ### Datenschutz für Gründende – Strategien für einen sicheren Start  
 **Name: Raphaela Beiser Dornkamp**
 
----
-
 ### Überblick: Vorschriften und Grundsätze
 
 1. **Prüfung, ob personenbezogene Daten verarbeitet werden**:  
@@ -17,7 +15,6 @@
 4. **Datenschutzfreundliche Konfiguration bei der Verwendung von Tools und Software**:  
    Bei der Auswahl und Nutzung digitaler Tools und Software sollten datenschutzfreundliche Voreinstellungen verwendet werden. Dies schließt insbesondere die minimale Erhebung von Standortdaten und anderen sensiblen Informationen ein.
 
----
 
 ### Informationspflichten
 
@@ -27,7 +24,6 @@
 2. **Präzision und Transparenz**:  
    Die Informationspflichten müssen in einer klaren, verständlichen und zugänglichen Form erfüllt werden, sodass betroffene Personen nachvollziehen können, wie ihre Daten verarbeitet werden.
 
----
 
 ### Betroffenenrechte
 
@@ -40,7 +36,6 @@
    - Datenübertragbarkeit,
    - Widerspruch gegen die Verarbeitung.
 
----
 
 ### Praxistipps
 
