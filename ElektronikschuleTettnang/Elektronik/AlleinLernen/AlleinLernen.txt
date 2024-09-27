@@ -42,6 +42,31 @@ oder Strom in einer Schaltung herrscht, wenn du den Widerstand kennst.
 
 6. Wichtige Bauteile in der Elektornik:
 
+1. Widerstand (Resistor): 
+- Einheit : Ohm (Ω)
+- Beschreibung: Ein Bauteil, das den Stromfluss begrenzt und die Spannung in einem Stromkreis reduziert.
+
+
+2. Kondensator (Capacitor): 
+- Bescreibung: Speicher elektrische Ladung und gibt die bai Bedarf wieder ab. Er kann Spannung glätten 
+oder Energiespitzen ausgleichen. 
+
+3. Spule (Induktivität, Coil):
+- Einheit: Henry (H)
+- Beschreibung: Speichert Energie in einem Magnetfeld, wenn Strom durch
+sie fliesst. Wird in Filterschaltungen und zur Stromregelung verwendet. 
+
+4. Diode:
+- Einheit: Keine speziphische Einheit, aber der Spannungabfall wird in Volt (V) gemessen. 
+- Beschreibung: Lässt Strom nur in eine Richtung fliessen und blockiert ihn in die andere Richtung. Wird
+oft zur Gleichrichtung vrwendet.
+
+5. Transistor:
+- 
+- Beschreibung: Kann als Schalter oder Vers
+
+
+
 
 
 
