@@ -1,0 +1,48 @@
+
+**Couple Coach - Datum: 07.10.2024**
+
+**Was gefällt den Leuten nicht?**  
+In der App gibt es Bewertungen, Likes und negatives Feedback. Basierend auf diesem Feedback könnten wir den Content anpassen.
+
+Wir könnten auch neue Funktionen implementieren.  
+**Was wäre der Umfang, um diese Frage zu implementieren?**  
+Ich schätze, es würde zwischen 2 und 3 Stunden dauern.
+
+Lass uns diese 2 bis 3 Stunden festhalten.
+
+**Traffic:**  
+Wenn keine Daumen-hoch- oder Daumen-runter-Funktion vorhanden ist, können wir sie implementieren.  
+Das ist cool.  
+Ich habe auch viele Skripte, mit denen wir Metriken abfragen können.  
+Zum Beispiel Kennzahlen, um Metriken in unserer Datenbank zu sehen.  
+Beispielsweise: 80 User, die durchschnittlich 10 Nachrichten senden.  
+Oder: Was passiert zwischen 4 und 8 Wochen?  
+Das ist gut zu wissen.
+
+Wenn wir das "Couple Coach" nennen, sollten wir uns überlegen, ob der Name "klebrig" genug ist oder ob wir etwas anpassen sollten.
+
+**Couple Coach anpassen:**  
+"Mate Awake" als Name wäre vielleicht nicht so schlau. Es wäre verwirrend und könnte ein bisschen "shady" wirken, wenn wir den Namen der App einfach ändern.
+
+**Kommunikation:**  
+Es ist wichtig, zu merken, wenn etwas gut funktioniert, zum Beispiel bei Reels. Dann könnten wir das kommunizieren, damit du es andeuten kannst.
+
+Nicht nurdie nuter zahlen ist wichtig, sonden dass die mesnchen es auch benutzen, anderes Seit, schauen wie viele Nachrichten ein User schickt.
+
+100 User, is zum ende des jahren, nd wenn 10 leute es benutzen, ume ien Exponentiels Wachstum zu verursachen.
+Die ANzhal, durschnittliche Anzahl.
+
+100 User in Dezember. 
+150 bis zum ende des jahres. 
+
+
+Wie machen wie. mit metricool, social media, we transfer, ein facebook reel, dann scheun wir ob 
+
+
+Ich warte auf deine Nachrichten.
+
+
+
+
+
+
