@@ -1,0 +1,108 @@
+
+**Titel**: Welche ist die richtige Rechtsform für deine Gründung?  
+**Referent**: Dr. Hansjörg Reichert
+
+---
+
+### Gründungssituationen
+
+- Die Gründungssituation entscheidet über die Wahl der Rechtsform: **Allein oder gemeinsam?**
+- **Verantwortung**: Wer möchte welche Verantwortung übernehmen?
+- **Haftungsrisiken**: Wie hoch sind die Risiken? Wer haftet in welchem Umfang?
+- **Unternehmensübernahme**: Übernehme ich ein bestehendes Unternehmen oder starte ich von Grund auf neu?
+- **Innovativ oder etabliert?**: Erfinde ich die Welt neu oder gründe ich in einer etablierten Branche?
+- **Kapitalbedarf**: Wie viel Kapital benötige ich, und woher soll das kommen (Eigenkapital, Fremdkapital)?
+- **Kontrolle**: Wie kann ich die Kontrolle und Entscheidungsmacht im Unternehmen behalten?
+- **Nachhaltigkeit**: Will ich ein Unternehmen nachhaltig aufbauen oder schnell Gewinne erzielen?
+- **Rechtlicher Ordnungsrahmen**: Gibt es spezielle rechtliche Anforderungen, z.B. in den freien Berufen?
+- **Voraussetzungen**: Verfüge ich über die notwendigen Voraussetzungen (Fachwissen, Erfahrung, finanzielle Mittel)?
+
+---
+
+### Welche Rechtsformen kommen in Frage?
+
+1. **Einzelunternehmen**  
+   - Alleinige Verantwortung und Haftung
+   - Keine Haftungsbegrenzung (unbeschränkte Haftung)
+   - Einfachste und kostengünstigste Rechtsform
+
+2. **Personengesellschaften**  
+   - **GbR (Gesellschaft bürgerlichen Rechts)** oder **OHG (Offene Handelsgesellschaft)**  
+     - Voraussetzung: Einigkeit und Vertrauen unter den Gesellschaftern
+     - Keine Haftungsbegrenzung – jeder Gesellschafter haftet unbeschränkt mit seinem gesamten Vermögen
+     - Kein Mindestkapital erforderlich
+
+3. **GmbH (Gesellschaft mit beschränkter Haftung)**  
+   - Mindestkapital: 25.000 € (Stammkapital)
+   - Haftungsbeschränkung auf das Gesellschaftsvermögen (keine persönliche Haftung)
+   - Einfache Gründung auch als Einzelperson möglich
+   - Möglichkeit, Fremdkapital durch Darlehen aufzunehmen
+   - Steuerliche Belastung in Konstanz: ca. 30 % (Körperschaftsteuer 15 %, Gewerbesteuer 15 %, ggf. Einkommenssteuer für den Geschäftsführer)
+   - GmbH benötigt einen Geschäftsführer, der als Organ der Gesellschaft fungiert
+   - Steuersatz für GmbH: 28 %
+
+4. **UG (Unternehmergesellschaft)**  
+   - „Mini-GmbH“, geringe Gründungskosten (Mindestkapital ab 1 €)
+   - Höheres Insolvenzrisiko bei Überschuldung
+   - Haftungsrisiko wie bei der GmbH beschränkt auf das Gesellschaftsvermögen
+
+5. **GmbH & Co. KG**  
+   - Kombination aus GmbH und Kommanditgesellschaft
+   - Kommanditisten haften nur mit ihrer Einlage, nicht mit ihrem Privatvermögen
+   - Geschäftsführung liegt bei der GmbH als Komplementärin, stille Gesellschafter (Kommanditisten) sind oft nur Kapitalgeber
+   - Haftungsrisiko beschränkt auf die GmbH
+
+6. **Stille Gesellschaft**  
+   - Stiller Gesellschafter gibt Kapital, beteiligt sich aber nicht aktiv an der Geschäftsführung
+   - Haftung beschränkt auf die Einlage des stillen Gesellschafters
+
+7. **AG (Aktiengesellschaft)**  
+   - Mindestkapital: 50.000 € (Grundkapital)
+   - Kann auch ohne Börsennotierung gegründet werden
+   - Flexibel bei Kapitalbeschaffung durch Aktienausgabe
+   - Haftung beschränkt auf das Gesellschaftsvermögen
+
+8. **Genossenschaften**  
+   - Mitgliederorientierte Unternehmensform
+   - Hohe Gründungsquote, aber auch eine hohe Scheiterungsquote
+   
+
+
+--- Welceh Steuern kommen auf mich zu?
+
+1. Einkommensteuer onder Köpersrshcaften.
+Deswewg die einkommenscteur ist kein Gerechter steure.
+das brauche ich nicht in Deutschaland verdienen.
+Vieles wird ind e rSteure diskutiertß
+
+30 bis 50%
+da gibt es ein Heblsatz und setuer aufkommen  baer sie ist deutschlich dniedriger, bei der Personnegesellachsfter.
+
+2. Gewerbesteuer
+  könnte nur man verhinder in den man es ausgeschüttet hat.
+
+3. Umsatzsteuer. 
+wir haben nur noch 20% Nationalesrechts.
+es geht immer weiter auseinander
+
+4. Lohnsteuer
+sie sind steur arbeistnehmer, möglicherweise Selbständig.
+Gesselscgaftrechtlich sind sie Orga der GEssleschaft.
+Si zahlen aude der GEHALT lOHNSTEUER.
+
+
+
+
+
+   --- Fragen:
+   WARUM SIND DIE sTEUREN SO vOLATIL?
+
+
+
+
+---
+
+**Zusätzliche Hinweise**:  
+- Die Wahl der Rechtsform sollte nicht nur nach steuerlichen Gesichtspunkten, sondern auch nach Haftungsrisiken, Kapitalbedarf und langfristigen Unternehmenszielen getroffen werden.
+- Beratungen durch Steuerberater oder Rechtsanwälte sind oft unerlässlich, um die passende Rechtsform zu wählen.
+
