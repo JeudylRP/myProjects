@@ -1,0 +1,48 @@
+
+### Tema: Disfrutar de los espacios públicos
+
+- **Contexto**: En Latinoamérica, la inseguridad afecta gravemente el disfrute de los espacios públicos. 
+    - **Datos a futuro**: A medida que recopilemos más datos y podamos realizar análisis estadísticos, será posible evaluar el impacto de la inseguridad en mayor detalle. 
+    - **Propuesta de solución**: Implementar un sistema de notificaciones proactivas a través de tecnologías avanzadas, cobrando un dólar mensual por donación de tránsito para mejorar la seguridad en las áreas urbanas y rurales.
+
+### Inseguridad en Colombia
+
+- **Razón personal**: Vivo en Colombia, un país con altos niveles de inseguridad, debido a conflictos armados, asaltos y robos en zonas rurales. Soy parte del daño colateral causado por la guerra interna.
+    - **Impacto en el disfrute**: Si hay carteristas o robos, las personas no disfrutan de los espacios públicos de la misma manera. Los métodos de robo que se ven en Latinoamérica están comenzando a replicarse en ciudades europeas.
+    - **Llamado a la acción**: Es necesario dejar de normalizar este tipo de violencia en Europa. Las prácticas de robo que se ven en América Latina y en países en desarrollo no deberían expandirse a otros continentes.
+
+### Reducción de la inmigración
+
+- **Perspectiva de la víctima**: Ponerse en el lugar de las víctimas puede ayudar a reducir la inmigración de países latinoamericanos hacia Europa, un fenómeno que ya se observa en Estados Unidos. 
+    - **Preocupación económica**: En Europa, la normalización de delitos pequeños, como el robo, ya genera pérdidas significativas (por ejemplo, la normalización de robos de hasta 2000 euros). 
+    - **Soluciones**: Crear rutas seguras con puntos de origen y destino bien identificados.
+
+### Migración y cultura delictiva
+
+- **Contrarrestar malas prácticas**: Es importante combatir la mala cultura que promueve la criminalidad y evitar que se propague en los países europeos. Safezone, a través de su canal, enseña a reducir los índices de criminalidad mediante el uso de tecnologías innovadoras.
+    - **Impacto en la economía**: Los países no generan ingresos reales si no invierten en seguridad social. Esto impacta tanto en la economía como en el bienestar social.
+
+### Propuestas tecnológicas
+
+- **Modelo de negocio**: Cobrar un dólar mensual por miembro, proporcionando notificaciones proactivas y seguridad basada en tecnología. 
+    - **Potencial comprador**: El gobierno o la ciudadanía pueden adquirir este servicio mediante membresías. 
+    - **Inversión en tecnología**: Basado en el tráfico de usuarios y los estudios que llevemos a cabo, podremos invertir más en tecnología para mejorar la seguridad pública.
+
+### Detalles operativos
+
+- **Migración de bases de datos**: Migrar la base de datos actual para incluir puntos clave de interés que ya se tienen identificados. 
+    - **Objetivo principal**: Hacer contacto directo con la policía para optimizar las estadísticas de criminalidad y mejorar la respuesta a los incidentes.
+    - **Uso de tecnologías avanzadas**: Implementar mapas de calor para identificar zonas de mayor riesgo y rutas seguras. 
+    - **Actualización del formulario**: Asegurar la correcta actualización de formularios para usuarios y policías.
+
+### Finanzas
+
+- **Costos mensuales**: 
+    - 1500 euros como un presupuesto mensual significativo para mantener la infraestructura. 
+    - 100 euros mensuales para servicios clave como AWS.
+
+### Consideraciones finales
+
+- **Impacto en la vida adulta**: La inseguridad no golpea tan fuerte cuando se normaliza, pero es fundamental combatir este fenómeno y evitar su expansión.
+- **Donaciones y membresías**: Ofrecer una opción para que los usuarios donen o adquieran membresías como parte de una solución integral para mejorar la seguridad pública.
+
